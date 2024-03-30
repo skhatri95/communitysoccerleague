@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Jerseys">6db6d3884719c650bd3cb616536d43b7</category>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-01 00:00:00</delivery_time>
+        <description><![CDATA[<p>This jersey is for DC Bulls, please check the description before ordering.</p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow display_value="Service Catalog item request">30f3d26187e92300e0ef0cf888cb0b91</flow_designer_flow>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Team Jersey - DC Bulls</name>
+        <no_attachment_v2>true</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=be5d01014715c210bd3cb616536d434b&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>df57927747cd4650bd3cb616536d43ca</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="Soccer Supplies Template">2e656fcc4759c650bd3cb616536d43e1</sc_template>
+        <short_description>Team jersey for DC Bulls team.</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>published</state>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 15:59:07</sys_created_on>
+        <sys_id>be5d01014715c210bd3cb616536d434b</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Team Jersey - DC Bulls</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sc_cat_item_be5d01014715c210bd3cb616536d434b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 16:02:31</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>1</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=be5d01014715c210bd3cb616536d434b"/>
+    <fx_price action="delete_multiple" query="id=be5d01014715c210bd3cb616536d434b"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>be5d01014715c210bd3cb616536d434b</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 15:59:07</sys_created_on>
+        <sys_id>da9d45414715c210bd3cb616536d43d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 15:59:07</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>Unknown.jpeg</file_name>
+        <hash>7b0320a5505ca762e61f5bf16b041d1591bf300990c147302163c805e37c3391</hash>
+        <image_height>189</image_height>
+        <image_width>201</image_width>
+        <size_bytes>5275</size_bytes>
+        <size_compressed>5181</size_compressed>
+        <state>available</state>
+        <sys_created_by>zhiyi.zheng</sys_created_by>
+        <sys_created_on>2024-03-30 16:02:30</sys_created_on>
+        <sys_id>f75ec5814715c210bd3cb616536d4371</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>zhiyi.zheng</sys_updated_by>
+        <sys_updated_on>2024-03-30 16:02:30</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>be5d01014715c210bd3cb616536d434b</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Unknown.jpeg" sys_id="f75ec5814715c210bd3cb616536d4371">f75ec5814715c210bd3cb616536d4371</sys_attachment>
+        <sys_created_by>zhiyi.zheng</sys_created_by>
+        <sys_created_on>2024-03-30 16:02:30</sys_created_on>
+        <sys_id>3b5ec5814715c210bd3cb616536d4371</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>6896</length>
+        <position>1</position>
+        <sys_attachment display_value="Unknown.jpeg" sys_id="f75ec5814715c210bd3cb616536d4371">f75ec5814715c210bd3cb616536d4371</sys_attachment>
+        <sys_created_by>zhiyi.zheng</sys_created_by>
+        <sys_created_on>2024-03-30 16:02:30</sys_created_on>
+        <sys_id>bb5ec5814715c210bd3cb616536d4371</sys_id>
+    </sys_attachment_doc>
+</record_update>
