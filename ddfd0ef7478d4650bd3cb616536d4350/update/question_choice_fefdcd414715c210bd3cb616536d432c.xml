@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
     <question_choice action="INSERT_OR_UPDATE">
         <inactive>false</inactive>
+        <misc>0</misc>
         <order>100</order>
         <published_ref/>
         <question display_value="How many of this jerseys do you need?">97cdc9414715c210bd3cb616536d4360</question>
+        <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-30 16:00:48</sys_created_on>
