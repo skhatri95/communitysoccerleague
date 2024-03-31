@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Training Tops">dac09e1d475d0610bd3cb616536d439e</sc_cat_item>
+        <sc_category display_value="Tops">5140921d475d0610bd3cb616536d4327</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-31 15:33:02</sys_created_on>
+        <sys_id>8631da5d475d0610bd3cb616536d4350</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Tops.Training Tops</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sc_cat_item_category_8631da5d475d0610bd3cb616536d4350</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-31 15:33:10</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
