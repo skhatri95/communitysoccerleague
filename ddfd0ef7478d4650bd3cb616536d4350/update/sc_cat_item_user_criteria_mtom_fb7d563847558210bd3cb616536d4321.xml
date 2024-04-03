@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Report an Equipment Condition">dd0306f047d18210bd3cb616536d434a</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 03:09:43</sys_created_on>
+        <sys_id>fb7d563847558210bd3cb616536d4321</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request an Equipment.Users with 'coach' role</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_fb7d563847558210bd3cb616536d4321</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 03:09:43</sys_updated_on>
+        <user_criteria display_value="Users with 'coach' role">468cdeb447558210bd3cb616536d4392</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

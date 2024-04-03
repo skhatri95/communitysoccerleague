@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability display_value="Public">c896da371bcd4650ec745f8ae53f26f4</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-27 00:05:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8496da3710cd46506a83f3090512daf6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>m2m_app_config_theme_8496da3710cd46506a83f3090512daf6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-27 00:05:32</sys_updated_on>
+        <theme display_value="Light Theme">8c96da3752cd465037371f99f4fd8af4</theme>
+        <ux_app_configuration display_value="">3786da3747cd4650bd3cb616536d4389</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>m2m_app_config_theme_8496da3710cd46506a83f3090512daf6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability display_value="Public">c896da371bcd4650ec745f8ae53f26f4</applicability><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-27 00:05:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8496da3710cd46506a83f3090512daf6</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>m2m_app_config_theme_8496da3710cd46506a83f3090512daf6</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-27 00:05:32</sys_updated_on><theme display_value="Light Theme">8c96da3752cd465037371f99f4fd8af4</theme><ux_app_configuration display_value="">3786da3747cd4650bd3cb616536d4389</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>954022125</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e294840147300210bd3cb616536d4368</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-03-05 14:08:48</sys_created_on>
+        <sys_id>e56a9984479d8650bd3cb616536d4373</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18e0ef20d800000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Theme</type>
+        <update_guid>a56a9984c09d8650f95b8c4e81452173</update_guid>
+        <update_guid_history>a56a9984c09d8650f95b8c4e81452173:954022125</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">216a9984479d8650bd3cb616536d4374</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-27 14:21:07</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>1d2773bf45fc4bf086ef048fd385c984</sys_id>
+        <sys_metadata>8496da3710cd46506a83f3090512daf6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_8496da3710cd46506a83f3090512daf6</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_8496da3710cd46506a83f3090512daf6">e56a9984479d8650bd3cb616536d4373</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-27 14:21:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1189834_teampu_0_injuries</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 03:01:38</sys_created_on>
+        <sys_id>95ab9a7447558210bd3cb616536d43d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1189834_teampu_0_injuries</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sys_security_acl_95ab9a7447558210bd3cb616536d43d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 03:01:38</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sys_security_acl_95ab9a7447558210bd3cb616536d43d9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>true</advanced><condition/><description/><local_or_existing>Local</local_or_existing><name>x_1189834_teampu_0_injuries</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-30 03:01:38</sys_created_on><sys_id>95ab9a7447558210bd3cb616536d43d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1189834_teampu_0_injuries</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sys_security_acl_95ab9a7447558210bd3cb616536d43d9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 03:01:38</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-606595469</payload_hash>
+        <record_name>x_1189834_teampu_0_injuries</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 03:01:38</sys_created_on>
+        <sys_id>15ab9a7447558210bd3cb616536d43dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8d4e3b1f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 03:01:38</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>19ab9a7435558210913cdbb7c71d7edb</update_guid>
+        <update_guid_history>19ab9a7435558210913cdbb7c71d7edb:-606595469</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 23:40:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>e7fabe409fa242aaaeabd8df4d1382f9</sys_id>
+        <sys_metadata>95ab9a7447558210bd3cb616536d43d9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1189834_teampu_0_injuries</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent display_value="x_1189834_teampu_0_injuries">2a165e4047d1c650bd3cb616536d43b0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sys_security_acl_95ab9a7447558210bd3cb616536d43d9</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_95ab9a7447558210bd3cb616536d43d9">15ab9a7447558210bd3cb616536d43dc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 23:40:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

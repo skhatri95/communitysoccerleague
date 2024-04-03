@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_1189834_teampu_0_equipment" version="2" view="RPT413de4cd4711c210bd3cb616536d43a1">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type</element>
+            <list_id display_value="x_1189834_teampu_0_equipment" element="NULL" name="x_1189834_teampu_0_equipment" parent="NULL" relationship="NULL" sys_domain="global" view="413d60414751c210bd3cb616536d4310">453d60414751c210bd3cb616536d4311</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-30 13:37:35</sys_created_on>
+            <sys_id>813d60414751c210bd3cb616536d4312</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-30 13:37:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>quantity</element>
+            <list_id display_value="x_1189834_teampu_0_equipment" element="NULL" name="x_1189834_teampu_0_equipment" parent="NULL" relationship="NULL" sys_domain="global" view="413d60414751c210bd3cb616536d4310">453d60414751c210bd3cb616536d4311</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-30 13:37:35</sys_created_on>
+            <sys_id>853d60414751c210bd3cb616536d4312</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-30 13:37:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>maintenance_date</element>
+            <list_id display_value="x_1189834_teampu_0_equipment" element="NULL" name="x_1189834_teampu_0_equipment" parent="NULL" relationship="NULL" sys_domain="global" view="413d60414751c210bd3cb616536d4310">453d60414751c210bd3cb616536d4311</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-30 13:37:35</sys_created_on>
+            <sys_id>893d60414751c210bd3cb616536d4312</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-30 13:37:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>status</element>
+            <list_id display_value="x_1189834_teampu_0_equipment" element="NULL" name="x_1189834_teampu_0_equipment" parent="NULL" relationship="NULL" sys_domain="global" view="413d60414751c210bd3cb616536d4310">453d60414751c210bd3cb616536d4311</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-30 13:37:35</sys_created_on>
+            <sys_id>8d3d60414751c210bd3cb616536d4312</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-30 13:37:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1189834_teampu_0_equipment</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-30 13:37:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>453d60414751c210bd3cb616536d4311</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1189834_teampu_0_equipment</sys_name>
+            <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+            <sys_update_name>sys_ui_list_x_1189834_teampu_0_equipment_RPT413de4cd4711c210bd3cb616536d43a1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-30 13:37:35</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt413de4cd4711c210bd3cb616536d43a1" name="RPT413de4cd4711c210bd3cb616536d43a1">413d60414751c210bd3cb616536d4310</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sys_ui_list_x_1189834_teampu_0_equipment_RPT413de4cd4711c210bd3cb616536d43a1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1189834_teampu_0_equipment" version="2" view="RPT413de4cd4711c210bd3cb616536d43a1"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>type</element><list_id display_value="x_1189834_teampu_0_equipment" element="NULL" name="x_1189834_teampu_0_equipment" parent="NULL" relationship="NULL" sys_domain="global" view="413d60414751c210bd3cb616536d4310">453d60414751c210bd3cb616536d4311</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-30 13:37:35</sys_created_on><sys_id>813d60414751c210bd3cb616536d4312</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 13:37:35</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>quantity</element><list_id display_value="x_1189834_teampu_0_equipment" element="NULL" name="x_1189834_teampu_0_equipment" parent="NULL" relationship="NULL" sys_domain="global" view="413d60414751c210bd3cb616536d4310">453d60414751c210bd3cb616536d4311</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-30 13:37:35</sys_created_on><sys_id>853d60414751c210bd3cb616536d4312</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 13:37:35</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>maintenance_date</element><list_id display_value="x_1189834_teampu_0_equipment" element="NULL" name="x_1189834_teampu_0_equipment" parent="NULL" relationship="NULL" sys_domain="global" view="413d60414751c210bd3cb616536d4310">453d60414751c210bd3cb616536d4311</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-30 13:37:35</sys_created_on><sys_id>893d60414751c210bd3cb616536d4312</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 13:37:35</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>status</element><list_id display_value="x_1189834_teampu_0_equipment" element="NULL" name="x_1189834_teampu_0_equipment" parent="NULL" relationship="NULL" sys_domain="global" view="413d60414751c210bd3cb616536d4310">453d60414751c210bd3cb616536d4311</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-30 13:37:35</sys_created_on><sys_id>8d3d60414751c210bd3cb616536d4312</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 13:37:35</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1189834_teampu_0_equipment</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-30 13:37:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>453d60414751c210bd3cb616536d4311</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1189834_teampu_0_equipment</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sys_ui_list_x_1189834_teampu_0_equipment_RPT413de4cd4711c210bd3cb616536d43a1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 13:37:35</sys_updated_on><sys_user/><view display_value="Rpt413de4cd4711c210bd3cb616536d43a1" name="RPT413de4cd4711c210bd3cb616536d43a1">413d60414751c210bd3cb616536d4310</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-1796016898</payload_hash>
+        <record_name>Equipment</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 13:37:35</sys_created_on>
+        <sys_id>8d3d60414751c210bd3cb616536d4314</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8f9478f30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 13:37:35</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>053d6041a651c210f2f3fd0b2c9e4e14</update_guid>
+        <update_guid_history>053d6041a651c210f2f3fd0b2c9e4e14:-1796016898</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 21:07:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>0118fc99883f4d0891468cea7c9e8b64</sys_id>
+        <sys_metadata>453d60414751c210bd3cb616536d4311</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1189834_teampu_0_equipment</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent display_value="Equipment">944412cc4791c650bd3cb616536d437f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1189834_teampu_0_equipment_RPT413de4cd4711c210bd3cb616536d43a1</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1189834_teampu_0_equipment_RPT413de4cd4711c210bd3cb616536d43a1">8d3d60414751c210bd3cb616536d4314</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 21:07:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

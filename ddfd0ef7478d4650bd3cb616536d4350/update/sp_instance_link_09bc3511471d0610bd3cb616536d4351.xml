@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph>users</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="Create a Team Roster">93cd3d51471d0610bd3cb616536d433c</sc_cat_item>
+        <sc_category/>
+        <short_description>Use this portal to create a team roster</short_description>
+        <size>md</size>
+        <sp_column display_value="2">e1acb111471d0610bd3cb616536d43ea</sp_column>
+        <sp_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-31 14:03:24</sys_created_on>
+        <sys_id>09bc3511471d0610bd3cb616536d4351</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Create a Roster</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sp_instance_link_09bc3511471d0610bd3cb616536d4351</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-31 14:16:03</sys_updated_on>
+        <title>Create a Roster</title>
+        <type>sc_cat_item</type>
+        <url>https://dev88186.service-now.com/x_1189834_teampu_0_player_roster.do?sys_id=-1&amp;sysparm_view=Default%20view&amp;sysparm_view_forced=true</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=09bc3511471d0610bd3cb616536d4351"/>
+</record_update>

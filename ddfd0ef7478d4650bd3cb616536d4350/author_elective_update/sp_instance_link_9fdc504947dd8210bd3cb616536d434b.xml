@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph>user</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="Create a player">cfeb8b8847d5c650bd3cb616536d43f2</sc_cat_item>
+        <sc_category/>
+        <short_description>Use this form to add a player</short_description>
+        <size>md</size>
+        <sp_column display_value="3">be4f580d47dd8210bd3cb616536d4399</sp_column>
+        <sp_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 12:26:11</sys_created_on>
+        <sys_id>9fdc504947dd8210bd3cb616536d434b</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Add a Player</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sp_instance_link_9fdc504947dd8210bd3cb616536d434b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 12:37:00</sys_updated_on>
+        <title>Add a Player</title>
+        <type>sc_cat_item</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=9fdc504947dd8210bd3cb616536d434b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_instance_link_9fdc504947dd8210bd3cb616536d434b</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;primary&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;user&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item display_value="Create a player"&gt;cfeb8b8847d5c650bd3cb616536d43f2&lt;/sc_cat_item&gt;&lt;sc_category/&gt;&lt;short_description&gt;Use this form to add a player&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;be4f580d47dd8210bd3cb616536d4399&lt;/sp_column&gt;&lt;sp_page display_value="sc_cat_item"&gt;9f12251147132100ba13a5554ee490f4&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-03-30 12:26:11&lt;/sys_created_on&gt;&lt;sys_id&gt;9fdc504947dd8210bd3cb616536d434b&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Add a Player&lt;/sys_name&gt;&lt;sys_package display_value="TeamPulse" source="x_1189834_teampu_0"&gt;ddfd0ef7478d4650bd3cb616536d4350&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="TeamPulse"&gt;ddfd0ef7478d4650bd3cb616536d4350&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_9fdc504947dd8210bd3cb616536d434b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-03-30 12:37:00&lt;/sys_updated_on&gt;&lt;title&gt;Add a Player&lt;/title&gt;&lt;type&gt;sc_cat_item&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=9fdc504947dd8210bd3cb616536d434b"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1925036485</payload_hash>
+        <record_name>Add a Player</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 12:37:00</sys_created_on>
+        <sys_id>a55fd80d47dd8210bd3cb616536d43be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8f5cff050000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 12:37:00</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>6d5fd80d25dd8210c8b2bfa133423ebd</update_guid>
+        <update_guid_history>6d5fd80d25dd8210c8b2bfa133423ebd:-1925036485,e05f580d5edd821001ebcf2318de1eaf:795978071,f74f980dc6dd8210d3d29bb24b61c322:-166125212,3f7ddc49b8dd82100661347232801faf:1098243877,402d144958dd8210b3dbec3e7def7614:-305045631,53dc5049d0dd8210c46d1ac35d05834e:-2000489800</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Add a Player">bddcd82547594610bd3cb616536d43dc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 01:43:03</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>ab1aad33bf6a4439bcf3469b30c1c2c1</sys_id>
+        <sys_metadata>9fdc504947dd8210bd3cb616536d434b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add a Player</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sp_instance_link_9fdc504947dd8210bd3cb616536d434b</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_9fdc504947dd8210bd3cb616536d434b">a55fd80d47dd8210bd3cb616536d43be</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 01:43:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

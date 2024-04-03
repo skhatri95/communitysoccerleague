@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Request an Equipment">dd0306f047d18210bd3cb616536d434a</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 01:22:48</sys_created_on>
+        <sys_id>f10542b447d18210bd3cb616536d43b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request an Equipment</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_f10542b447d18210bd3cb616536d43b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 01:22:48</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sc_cat_item_catalog_f10542b447d18210bd3cb616536d43b0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request an Equipment">dd0306f047d18210bd3cb616536d434a</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-30 01:22:48</sys_created_on><sys_id>f10542b447d18210bd3cb616536d43b0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Request an Equipment</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sc_cat_item_catalog_f10542b447d18210bd3cb616536d43b0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 01:22:48</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-2121253017</payload_hash>
+        <record_name>Service Catalog.Request an Equipment</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 01:22:48</sys_created_on>
+        <sys_id>790542b447d18210bd3cb616536d43b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8cf3c1fa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 01:22:48</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>b90542b491d1821097b9811416dd26b2</update_guid>
+        <update_guid_history>b90542b491d1821097b9811416dd26b2:-2121253017</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Request an Equipment">320582b447d18210bd3cb616536d430d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 01:22:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>14caf0f9076a4a0699fb05a4548f2f44</sys_id>
+        <sys_metadata>f10542b447d18210bd3cb616536d43b0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request an Equipment</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent display_value="Report an Equipment Condition">dd0306f047d18210bd3cb616536d434a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_f10542b447d18210bd3cb616536d43b0</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_f10542b447d18210bd3cb616536d43b0">790542b447d18210bd3cb616536d43b3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 01:22:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

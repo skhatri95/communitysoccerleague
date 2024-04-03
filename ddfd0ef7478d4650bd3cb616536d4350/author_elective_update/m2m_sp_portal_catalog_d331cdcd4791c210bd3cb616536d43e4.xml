@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="DELETE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Soccer Supplies Catalog">df57927747cd4650bd3cb616536d43ca</sc_catalog>
+        <sp_portal display_value="CSL Players">c2df81bc479d4210bd3cb616536d43bc</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 15:05:07</sys_created_on>
+        <sys_id>d331cdcd4791c210bd3cb616536d43e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Soccer Supplies Catalog.CSL Players</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_d331cdcd4791c210bd3cb616536d43e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 15:05:07</sys_updated_on>
+    </m2m_sp_portal_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>m2m_sp_portal_catalog_d331cdcd4791c210bd3cb616536d43e4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog"><m2m_sp_portal_catalog action="INSERT_OR_UPDATE"><active>true</active><order>100</order><sc_catalog display_value="Soccer Supplies Catalog">df57927747cd4650bd3cb616536d43ca</sc_catalog><sp_portal display_value="CSL Players">c2df81bc479d4210bd3cb616536d43bc</sp_portal><sys_class_name>m2m_sp_portal_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-30 15:05:07</sys_created_on><sys_id>d331cdcd4791c210bd3cb616536d43e4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Soccer Supplies Catalog.CSL Players</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>m2m_sp_portal_catalog_d331cdcd4791c210bd3cb616536d43e4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 15:05:07</sys_updated_on></m2m_sp_portal_catalog></record_update>]]></payload>
+        <payload_hash>440943858</payload_hash>
+        <record_name>Soccer Supplies Catalog.CSL Players</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 15:05:07</sys_created_on>
+        <sys_id>d331cdcd4791c210bd3cb616536d43e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8fe49c390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 15:05:07</sys_updated_on>
+        <type>Portal Catalog</type>
+        <update_guid>d731cdcda791c210650bd6279fb023e7</update_guid>
+        <update_guid_history>d731cdcda791c210650bd6279fb023e7:440943858</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Soccer Supplies Catalog.CSL Players">235185cd4791c210bd3cb616536d437f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 15:05:40</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_portal_catalog">m2m_sp_portal_catalog</sys_db_object>
+        <sys_id>24aa0cf90c59482c89006daa2edb9eb9</sys_id>
+        <sys_metadata>d331cdcd4791c210bd3cb616536d43e4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Soccer Supplies Catalog.CSL Players</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>m2m_sp_portal_catalog_d331cdcd4791c210bd3cb616536d43e4</sys_update_name>
+        <sys_update_version display_value="m2m_sp_portal_catalog_d331cdcd4791c210bd3cb616536d43e4">d331cdcd4791c210bd3cb616536d43e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 15:05:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

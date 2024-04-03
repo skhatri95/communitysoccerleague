@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">21c80d4947d1c210bd3cb616536d43ee</sp_column>
+        <sp_widget display_value="SC Popular Items">cbcacf13cb21020000f8d856634c9ca0</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 15:35:05</sys_created_on>
+        <sys_id>1618854947d1c210bd3cb616536d4385</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Popular Items</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sp_instance_1618854947d1c210bd3cb616536d4385</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 15:38:05</sys_updated_on>
+        <title>Popular Items</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"limit": {
+		"value": 9,
+		"displayValue": "9"
+	},
+	"include_record_producers": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=1618854947d1c210bd3cb616536d4385"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_instance_1618854947d1c210bd3cb616536d4385</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;21c80d4947d1c210bd3cb616536d43ee&lt;/sp_column&gt;&lt;sp_widget display_value="SC Popular Items"&gt;cbcacf13cb21020000f8d856634c9ca0&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-03-30 15:35:05&lt;/sys_created_on&gt;&lt;sys_id&gt;1618854947d1c210bd3cb616536d4385&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Popular Items&lt;/sys_name&gt;&lt;sys_package display_value="TeamPulse" source="x_1189834_teampu_0"&gt;ddfd0ef7478d4650bd3cb616536d4350&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="TeamPulse"&gt;ddfd0ef7478d4650bd3cb616536d4350&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_1618854947d1c210bd3cb616536d4385&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-03-30 15:38:05&lt;/sys_updated_on&gt;&lt;title&gt;Popular Items&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"limit": {
+		"value": 9,
+		"displayValue": "9"
+	},
+	"include_record_producers": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=1618854947d1c210bd3cb616536d4385"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>2071127383</payload_hash>
+        <record_name>Popular Items</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 15:38:05</sys_created_on>
+        <sys_id>06c84d4947d1c210bd3cb616536d4387</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e9002c7c90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 15:38:05</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>cac84d4983d1c210b2472e65cc66d586</update_guid>
+        <update_guid_history>cac84d4983d1c210b2472e65cc66d586:2071127383,90a8c18956d1c21036839b5575e9d42d:-1058876350,1e18854997d1c210ac572cdcb36d7986:-1046768831</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Popular Items">22d8058947d1c210bd3cb616536d4328</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 15:38:23</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>480dfdf8ebc14d34b420eb3fe02eb810</sys_id>
+        <sys_metadata>1618854947d1c210bd3cb616536d4385</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Popular Items</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sp_instance_1618854947d1c210bd3cb616536d4385</sys_update_name>
+        <sys_update_version display_value="sp_instance_1618854947d1c210bd3cb616536d4385">06c84d4947d1c210bd3cb616536d4387</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 15:38:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

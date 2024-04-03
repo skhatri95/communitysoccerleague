@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph>medkit</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="Report an injury">16e5a3804799c650bd3cb616536d43c9</sc_cat_item>
+        <sc_category/>
+        <short_description>Use this portal to report an injury</short_description>
+        <size>md</size>
+        <sp_column display_value="2">8a0dd06547594610bd3cb616536d4339</sp_column>
+        <sp_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 01:42:13</sys_created_on>
+        <sys_id>25ac942547594610bd3cb616536d4349</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Report an Injury</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sp_instance_link_25ac942547594610bd3cb616536d4349</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 01:43:59</sys_updated_on>
+        <title>Report an Injury</title>
+        <type>sc_cat_item</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=25ac942547594610bd3cb616536d4349"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_instance_link_25ac942547594610bd3cb616536d4349</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;primary&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;medkit&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item display_value="Report an injury"&gt;16e5a3804799c650bd3cb616536d43c9&lt;/sc_cat_item&gt;&lt;sc_category/&gt;&lt;short_description&gt;Use this portal to report an injury&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;8a0dd06547594610bd3cb616536d4339&lt;/sp_column&gt;&lt;sp_page display_value="sc_cat_item"&gt;9f12251147132100ba13a5554ee490f4&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-04-01 01:42:13&lt;/sys_created_on&gt;&lt;sys_id&gt;25ac942547594610bd3cb616536d4349&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Report an Injury&lt;/sys_name&gt;&lt;sys_package display_value="TeamPulse" source="x_1189834_teampu_0"&gt;ddfd0ef7478d4650bd3cb616536d4350&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="TeamPulse"&gt;ddfd0ef7478d4650bd3cb616536d4350&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_25ac942547594610bd3cb616536d4349&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-04-01 01:43:59&lt;/sys_updated_on&gt;&lt;title&gt;Report an Injury&lt;/title&gt;&lt;type&gt;sc_cat_item&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=25ac942547594610bd3cb616536d4349"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>183070814</payload_hash>
+        <record_name>Report an Injury</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 01:43:59</sys_created_on>
+        <sys_id>170d146547594610bd3cb616536d436b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e9753dbea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 01:43:59</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>db0d146512594610b1f3f9d7c632426a</update_guid>
+        <update_guid_history>db0d146512594610b1f3f9d7c632426a:183070814,14dc9825a35946104094a2a6acb09fde:-190531988,6dac94256d59461092ed10ad9717fc4a:-1097262765</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Report an Injury">04528c31471d8610bd3cb616536d4381</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 18:25:38</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>687441dcd41946f48ba19ac5f6f356a4</sys_id>
+        <sys_metadata>25ac942547594610bd3cb616536d4349</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Report an Injury</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sp_instance_link_25ac942547594610bd3cb616536d4349</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_25ac942547594610bd3cb616536d4349">170d146547594610bd3cb616536d436b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 18:25:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

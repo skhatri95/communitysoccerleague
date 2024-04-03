@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3b3c0ac04791c650bd3cb616536d43fc" label="Team" max_length="40" name="x_1189834_teampu_0_team" type="collection">
+        <element label="Achievements" max_length="100" name="achievements" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" mandatory="true" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Soccer" sequence="0" value="soccer"/>
+            </choice>
+        </element>
+        <element choice="1" label="Coach Name" mandatory="true" max_length="50" name="coach" reference="sys_user" type="reference">
+            <choice/>
+        </element>
+        <element label="Coach Email" mandatory="true" max_length="50" name="coach_email" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Team ID" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Team Name" mandatory="true" max_length="50" name="team_name" type="string"/>
+    </element>
+</database>

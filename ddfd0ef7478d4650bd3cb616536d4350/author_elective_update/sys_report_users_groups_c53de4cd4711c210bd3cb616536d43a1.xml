@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">413de4cd4711c210bd3cb616536d43a1</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 13:37:35</sys_created_on>
+        <sys_id>c53de4cd4711c210bd3cb616536d43a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>413de4cd4711c210bd3cb616536d43a1</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sys_report_users_groups_c53de4cd4711c210bd3cb616536d43a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 13:37:35</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sys_report_users_groups_c53de4cd4711c210bd3cb616536d43a1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">413de4cd4711c210bd3cb616536d43a1</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-30 13:37:35</sys_created_on><sys_id>c53de4cd4711c210bd3cb616536d43a1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>413de4cd4711c210bd3cb616536d43a1</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sys_report_users_groups_c53de4cd4711c210bd3cb616536d43a1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 13:37:35</sys_updated_on><user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>-1760894122</payload_hash>
+        <record_name>413de4cd4711c210bd3cb616536d43a1</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 13:37:35</sys_created_on>
+        <sys_id>893de4cd4711c210bd3cb616536d43a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8f94786b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 13:37:35</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>8d3de4cdd211c2105b842ed3af860fa2</update_guid>
+        <update_guid_history>8d3de4cdd211c2105b842ed3af860fa2:-1760894122</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 21:07:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>16709f0d53b741db8c1411368df208f1</sys_id>
+        <sys_metadata>c53de4cd4711c210bd3cb616536d43a1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>413de4cd4711c210bd3cb616536d43a1</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_c53de4cd4711c210bd3cb616536d43a1</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_c53de4cd4711c210bd3cb616536d43a1">893de4cd4711c210bd3cb616536d43a3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 21:07:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

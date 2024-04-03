@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Create a Team">2309da4447d1c650bd3cb616536d43cb</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 19:15:09</sys_created_on>
+        <sys_id>ecbd9ec847d1c650bd3cb616536d43f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create a Team.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_ecbd9ec847d1c650bd3cb616536d43f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 19:15:09</sys_updated_on>
+        <user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_ecbd9ec847d1c650bd3cb616536d43f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create a Team">2309da4447d1c650bd3cb616536d43cb</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-27 19:15:09</sys_created_on><sys_id>ecbd9ec847d1c650bd3cb616536d43f4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create a Team.Users with 'Admin' Role</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_ecbd9ec847d1c650bd3cb616536d43f4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-27 19:15:09</sys_updated_on><user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>2141966811</payload_hash>
+        <record_name>Create a Team.Users with 'Admin' Role</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 19:15:09</sys_created_on>
+        <sys_id>20bd9ec847d1c650bd3cb616536d43f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e815670ef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 19:15:09</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>60bd9ec822d1c650d9e237950b5373f7</update_guid>
+        <update_guid_history>60bd9ec822d1c650d9e237950b5373f7:2141966811</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create a Team.Users with 'Admin' Role">3fad5a3847558210bd3cb616536d43cd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 03:10:32</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>96f0b030d41240abb71ae420d54f12c9</sys_id>
+        <sys_metadata>ecbd9ec847d1c650bd3cb616536d43f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create a Team.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_ecbd9ec847d1c650bd3cb616536d43f4</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_ecbd9ec847d1c650bd3cb616536d43f4">20bd9ec847d1c650bd3cb616536d43f8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 03:10:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

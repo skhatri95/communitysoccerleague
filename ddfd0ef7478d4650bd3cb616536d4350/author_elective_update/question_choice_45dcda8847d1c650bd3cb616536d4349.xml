@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>500</order>
+        <published_ref/>
+        <question display_value="What sports does your team play?">cc8b9e0847d1c650bd3cb616536d4391</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 19:11:21</sys_created_on>
+        <sys_id>45dcda8847d1c650bd3cb616536d4349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Volleyball</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>question_choice_45dcda8847d1c650bd3cb616536d4349</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 19:11:21</sys_updated_on>
+        <text>Volleyball</text>
+        <value>volleyball</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=45dcda8847d1c650bd3cb616536d4349"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>question_choice_45dcda8847d1c650bd3cb616536d4349</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>500</order><published_ref/><question display_value="What sports does your team play?">cc8b9e0847d1c650bd3cb616536d4391</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-27 19:11:21</sys_created_on><sys_id>45dcda8847d1c650bd3cb616536d4349</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Volleyball</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>question_choice_45dcda8847d1c650bd3cb616536d4349</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-27 19:11:21</sys_updated_on><text>Volleyball</text><value>volleyball</value></question_choice><fx_price action="delete_multiple" query="id=45dcda8847d1c650bd3cb616536d4349"/></record_update>]]></payload>
+        <payload_hash>-1254833800</payload_hash>
+        <record_name>Volleyball</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 19:11:22</sys_created_on>
+        <sys_id>05dcda8847d1c650bd3cb616536d4352</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8152f7e60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 19:11:22</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>45dcda88e8d1c650189c8292a20c9351</update_guid>
+        <update_guid_history>45dcda88e8d1c650189c8292a20c9351:-1254833800</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Volleyball">a374b93047918210bd3cb616536d4348</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 00:10:34</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>429f208cedce47a697b8dfd03d33b1e4</sys_id>
+        <sys_metadata>45dcda8847d1c650bd3cb616536d4349</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Volleyball</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent display_value="What sports does the team play?">cc8b9e0847d1c650bd3cb616536d4391</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>question_choice_45dcda8847d1c650bd3cb616536d4349</sys_update_name>
+        <sys_update_version display_value="question_choice_45dcda8847d1c650bd3cb616536d4349">05dcda8847d1c650bd3cb616536d4352</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 00:10:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

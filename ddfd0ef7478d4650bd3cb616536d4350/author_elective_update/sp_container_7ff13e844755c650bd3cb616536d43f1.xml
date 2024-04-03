@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>homepage-quicklinks</class_name>
+        <container_class_name/>
+        <name>Community Soccer League - Container 5</name>
+        <order>5</order>
+        <semantic_tag/>
+        <sp_page display_value="csl">abf172844755c650bd3cb616536d432c</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 20:43:50</sys_created_on>
+        <sys_id>7ff13e844755c650bd3cb616536d43f1</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Community Soccer League - Container 5</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sp_container_7ff13e844755c650bd3cb616536d43f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 01:39:47</sys_updated_on>
+        <title>Quick Links</title>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_container_7ff13e844755c650bd3cb616536d43f1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name>homepage-quicklinks</class_name><container_class_name/><name>Community Soccer League - Container 5</name><order>5</order><semantic_tag/><sp_page display_value="csl">abf172844755c650bd3cb616536d432c</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-27 20:43:50</sys_created_on><sys_id>7ff13e844755c650bd3cb616536d43f1</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Community Soccer League - Container 5</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sp_container_7ff13e844755c650bd3cb616536d43f1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-01 01:39:47</sys_updated_on><title>Quick Links</title><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>867915204</payload_hash>
+        <record_name>Community Soccer League - Container 5</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 01:39:47</sys_created_on>
+        <sys_id>791c10e147594610bd3cb616536d4321</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e975003830000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 01:39:47</sys_updated_on>
+        <type>Container</type>
+        <update_guid>fd1c10e142594610d79bf70a93d76f20</update_guid>
+        <update_guid_history>fd1c10e142594610d79bf70a93d76f20:867915204,7b180174ae9d4210ed376411e081adc4:1194490659,ff7bb8f04d5d4210ba2b89555bd13608:1102902517,7952fe44c755c6502a260e612e2588c9:697482916,682232c40455c6500c39d32bf13c7376:1454756364,b3f13e84a855c650a0d4aeeb6d4ddaf3:-484356532</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Community Soccer League - Container 5">f1dc982547594610bd3cb616536d43e4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 01:43:03</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>872596126a7c45409f05fdf422a968e4</sys_id>
+        <sys_metadata>7ff13e844755c650bd3cb616536d43f1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Community Soccer League - Container 5</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sp_container_7ff13e844755c650bd3cb616536d43f1</sys_update_name>
+        <sys_update_version display_value="sp_container_7ff13e844755c650bd3cb616536d43f1">791c10e147594610bd3cb616536d4321</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 01:43:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

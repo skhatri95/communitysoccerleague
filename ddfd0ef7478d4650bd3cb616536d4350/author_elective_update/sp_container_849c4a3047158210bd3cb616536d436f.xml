@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name>padding</container_class_name>
+        <name>CSL Coach Portal - Container 4</name>
+        <order>4</order>
+        <semantic_tag/>
+        <sp_page display_value="csl_coach_portal">138c7074475d4210bd3cb616536d4380</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 01:55:44</sys_created_on>
+        <sys_id>849c4a3047158210bd3cb616536d436f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>CSL Coach Portal - Container 4</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sp_container_849c4a3047158210bd3cb616536d436f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 13:02:22</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_container_849c4a3047158210bd3cb616536d436f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name>padding</container_class_name><name>CSL Coach Portal - Container 4</name><order>4</order><semantic_tag/><sp_page display_value="csl_coach_portal">138c7074475d4210bd3cb616536d4380</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-30 01:55:44</sys_created_on><sys_id>849c4a3047158210bd3cb616536d436f</sys_id><sys_mod_count>2</sys_mod_count><sys_name>CSL Coach Portal - Container 4</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sp_container_849c4a3047158210bd3cb616536d436f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 13:02:22</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1235379818</payload_hash>
+        <record_name>CSL Coach Portal - Container 4</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 13:02:22</sys_created_on>
+        <sys_id>0d25e8454711c210bd3cb616536d4367</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8f7438b10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 13:02:22</sys_updated_on>
+        <type>Container</type>
+        <update_guid>c125e8458611c21022cbb84a1c295b67</update_guid>
+        <update_guid_history>c125e8458611c21022cbb84a1c295b67:1235379818,0005e445d811c21091a04819eabd003a:1844372919,c49c4a30c015821028fb0d7705ca9a71:150372723</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CSL Coach Portal - Container 4">fdbff915471d0610bd3cb616536d4335</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-31 14:16:35</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>c2c8fae715584d208e8ee85037b83c40</sys_id>
+        <sys_metadata>849c4a3047158210bd3cb616536d436f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CSL Coach Portal - Container 4</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sp_container_849c4a3047158210bd3cb616536d436f</sys_update_name>
+        <sys_update_version display_value="sp_container_849c4a3047158210bd3cb616536d436f">0d25e8454711c210bd3cb616536d4367</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-31 14:16:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

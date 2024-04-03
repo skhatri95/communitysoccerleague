@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>400</order>
+        <published_ref/>
+        <question display_value="What sports does your team play?">cc8b9e0847d1c650bd3cb616536d4391</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 19:11:21</sys_created_on>
+        <sys_id>c9dcda8847d1c650bd3cb616536d433f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Baseball</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>question_choice_c9dcda8847d1c650bd3cb616536d433f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 19:11:21</sys_updated_on>
+        <text>Baseball</text>
+        <value>baseball</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=c9dcda8847d1c650bd3cb616536d433f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>question_choice_c9dcda8847d1c650bd3cb616536d433f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>400</order><published_ref/><question display_value="What sports does your team play?">cc8b9e0847d1c650bd3cb616536d4391</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-27 19:11:21</sys_created_on><sys_id>c9dcda8847d1c650bd3cb616536d433f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Baseball</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>question_choice_c9dcda8847d1c650bd3cb616536d433f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-27 19:11:21</sys_updated_on><text>Baseball</text><value>baseball</value></question_choice><fx_price action="delete_multiple" query="id=c9dcda8847d1c650bd3cb616536d433f"/></record_update>]]></payload>
+        <payload_hash>2066891197</payload_hash>
+        <record_name>Baseball</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 19:11:21</sys_created_on>
+        <sys_id>89dcda8847d1c650bd3cb616536d4348</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8152f73c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 19:11:21</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>c9dcda88c0d1c650a8531030ad8b1d47</update_guid>
+        <update_guid_history>c9dcda88c0d1c650a8531030ad8b1d47:2066891197</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Baseball">fb74b93047918210bd3cb616536d43a3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 00:10:35</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>acf637dfff6e46518277997e56a26a81</sys_id>
+        <sys_metadata>c9dcda8847d1c650bd3cb616536d433f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Baseball</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent display_value="What sports does the team play?">cc8b9e0847d1c650bd3cb616536d4391</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>question_choice_c9dcda8847d1c650bd3cb616536d433f</sys_update_name>
+        <sys_update_version display_value="question_choice_c9dcda8847d1c650bd3cb616536d433f">89dcda8847d1c650bd3cb616536d4348</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 00:10:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
