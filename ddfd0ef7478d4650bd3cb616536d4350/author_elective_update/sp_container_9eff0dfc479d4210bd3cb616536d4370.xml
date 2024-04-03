@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>CSL Players Portal - Container 5</name>
+        <order>5</order>
+        <semantic_tag/>
+        <sp_page display_value="csl_players_portal">4aff0dfc479d4210bd3cb616536d434f</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-29 21:31:01</sys_created_on>
+        <sys_id>9eff0dfc479d4210bd3cb616536d4370</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>CSL Players Portal - Container 5</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sp_container_9eff0dfc479d4210bd3cb616536d4370</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-29 21:39:07</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_container_9eff0dfc479d4210bd3cb616536d4370</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>CSL Players Portal - Container 5</name><order>5</order><semantic_tag/><sp_page display_value="csl_players_portal">4aff0dfc479d4210bd3cb616536d434f</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-29 21:31:01</sys_created_on><sys_id>9eff0dfc479d4210bd3cb616536d4370</sys_id><sys_mod_count>2</sys_mod_count><sys_name>CSL Players Portal - Container 5</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sp_container_9eff0dfc479d4210bd3cb616536d4370</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-29 21:39:07</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>2068508027</payload_hash>
+        <record_name>CSL Players Portal - Container 5</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-29 21:39:07</sys_created_on>
+        <sys_id>38d11d7047dd4210bd3cb616536d431e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8c26f4cf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-29 21:39:07</sys_updated_on>
+        <type>Container</type>
+        <update_guid>fcd11d70d4dd4210f50f4299844bf11d</update_guid>
+        <update_guid_history>fcd11d70d4dd4210f50f4299844bf11d:2068508027,d610d5fc3a9d4210151f28f80fca4db9:1810168562,d2ff0dfc3d9d42107078183365ab0672:831462002</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CSL Players Portal - Container 5">9a4215b047dd4210bd3cb616536d43f6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-29 21:41:07</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>3d96f5e2b15f4c549e5cd84e1efc69e9</sys_id>
+        <sys_metadata>9eff0dfc479d4210bd3cb616536d4370</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CSL Players Portal - Container 5</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sp_container_9eff0dfc479d4210bd3cb616536d4370</sys_update_name>
+        <sys_update_version display_value="sp_container_9eff0dfc479d4210bd3cb616536d4370">38d11d7047dd4210bd3cb616536d431e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-29 21:41:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

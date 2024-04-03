@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Landing Page">9e07ba4cff55c650c13f4417b7bc25d2</macroponent>
+        <name>Fetch my tasks</name>
+        <preset/>
+        <required_translations>[ {
+  "code" : null,
+  "message" : "Approval overdue: {0}",
+  "comment" : ""
+}, {
+  "code" : null,
+  "message" : "Approval Request: {0}",
+  "comment" : ""
+}, {
+  "code" : null,
+  "message" : "Approval due: {0}",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ * @param {ApiHelpers} params.helpers
+ */
+async function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    const input = api.data.evam_mytasks.compositeDataViews;
+    for (var i = 0; i < input.items.length; i++) {
+        var model = input.items[i].propValues;
+        var currDate = new Date();
+        var dueDate = new Date(model.model.due_date);
+        if (model.model.due_date != "") {
+            model.highlightedHeaderLabel = await helpers.translate("Approval due: {0}", dueDate);
+            if (currDate.getTime() > dueDate.getTime()) {
+                model.highlightedHeaderBkgColor = "critical";
+                model.highlightedHeaderLabel =await helpers.translate("Approval overdue: {0}", dueDate);
+            }
+        }
+        model.title = await helpers.translate("Approval Request: {0}", model.title);
+        if (model.model.table == "sc_req_item") {
+            if (model.model.recurring_frequency != "") {
+                model.subtitle = model.subtitle + " + " + model.model.recurring_price + " " + model.model.recurring_frequency;
+            }
+        }
+        if (model.model.sys_created_on != "") {
+            var createdDate = new Date(model.model.sys_created_on);
+            model.detailValueOne = [createdDate.getFullYear(), createdDate.getMonth() + 1, createdDate.getDate()].join('-');
+        }
+    }
+    api.setState('mytaskData', input);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-27 21:05:54</sys_created_on>
+        <sys_id>de07ba4cbc55c650e8983e29a64f0cb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fetch my tasks</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sys_ux_client_script_de07ba4cbc55c650e8983e29a64f0cb5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-27 21:05:54</sys_updated_on>
+        <target/>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

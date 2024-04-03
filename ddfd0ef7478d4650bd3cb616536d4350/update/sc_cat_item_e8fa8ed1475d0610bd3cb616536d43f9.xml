@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Guards and Pads">b7eb8255475d0610bd3cb616536d4338</category>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-01 00:00:00</delivery_time>
+        <description><![CDATA[<p>This protective shin guard is recommended for all players in the league and it is made up of stiffened canvas or leather.</p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow display_value="Community Soccer League Item Request">c1e4686147994610bd3cb616536d43f4</flow_designer_flow>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Shin Guards</name>
+        <no_attachment_v2>true</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>9a0bced1475d0610bd3cb616536d4376</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=e8fa8ed1475d0610bd3cb616536d43f9&amp;sysparm_preview=true", "summary");</preview>
+        <price>30</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>df57927747cd4650bd3cb616536d43ca</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="CSL Supplies Template">2e656fcc4759c650bd3cb616536d43e1</sc_template>
+        <short_description>Shin guards</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>published</state>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-31 15:07:02</sys_created_on>
+        <sys_id>e8fa8ed1475d0610bd3cb616536d43f9</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Shin Guards</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sc_cat_item_e8fa8ed1475d0610bd3cb616536d43f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 02:32:15</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>4</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=e8fa8ed1475d0610bd3cb616536d43f9"/>
+    <fx_price action="delete_multiple" query="id=e8fa8ed1475d0610bd3cb616536d43f9"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>30</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>e8fa8ed1475d0610bd3cb616536d43f9</id>
+        <parent/>
+        <reference_amount>30</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-31 15:07:02</sys_created_on>
+        <sys_id>854b8e15475d0610bd3cb616536d43fb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 02:12:54</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>download.jpg</file_name>
+        <hash>5feda2ba791e07734100380dd9799867d8410c0b299e0ab1698a218c5b71c32d</hash>
+        <image_height>183</image_height>
+        <image_width>194</image_width>
+        <size_bytes>4604</size_bytes>
+        <size_compressed>4553</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-31 15:06:02</sys_created_on>
+        <sys_id>9a0bced1475d0610bd3cb616536d4376</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-31 15:06:02</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>e8fa8ed1475d0610bd3cb616536d43f9</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="download.jpg" sys_id="9a0bced1475d0610bd3cb616536d4376">9a0bced1475d0610bd3cb616536d4376</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-31 15:06:02</sys_created_on>
+        <sys_id>da0bced1475d0610bd3cb616536d4376</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>6060</length>
+        <position>1</position>
+        <sys_attachment display_value="download.jpg" sys_id="9a0bced1475d0610bd3cb616536d4376">9a0bced1475d0610bd3cb616536d4376</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-31 15:06:02</sys_created_on>
+        <sys_id>5e0bced1475d0610bd3cb616536d4376</sys_id>
+    </sys_attachment_doc>
+</record_update>

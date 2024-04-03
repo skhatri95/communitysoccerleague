@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Create a Team Roster">93cd3d51471d0610bd3cb616536d433c</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-31 14:15:36</sys_created_on>
+        <sys_id>7b7f3515471d0610bd3cb616536d437c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Create a Team Roster</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sc_cat_item_category_7b7f3515471d0610bd3cb616536d437c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-31 14:15:36</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sc_cat_item_category_7b7f3515471d0610bd3cb616536d437c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create a Team Roster">93cd3d51471d0610bd3cb616536d433c</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-31 14:15:36</sys_created_on><sys_id>7b7f3515471d0610bd3cb616536d437c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Create a Team Roster</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sc_cat_item_category_7b7f3515471d0610bd3cb616536d437c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-31 14:15:36</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-238940525</payload_hash>
+        <record_name>Can We Help You?.Create a Team Roster</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-31 14:15:37</sys_created_on>
+        <sys_id>7f7f3515471d0610bd3cb616536d4380</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e94dda34d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-31 14:15:37</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>bf7f3515511d061008c8fe4312db817f</update_guid>
+        <update_guid_history>bf7f3515511d061008c8fe4312db817f:-238940525</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Create a Team Roster">458f7515471d0610bd3cb616536d431b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-31 14:15:42</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>1b6acf166bcc4dfcbe9b5cde6f2e06f1</sys_id>
+        <sys_metadata>7b7f3515471d0610bd3cb616536d437c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Create a Team Roster</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_7b7f3515471d0610bd3cb616536d437c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_7b7f3515471d0610bd3cb616536d437c">7f7f3515471d0610bd3cb616536d4380</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-31 14:15:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

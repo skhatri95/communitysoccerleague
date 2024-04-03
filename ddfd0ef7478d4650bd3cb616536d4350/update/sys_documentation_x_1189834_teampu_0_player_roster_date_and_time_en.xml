@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="date_and_time" label="Date and Time" language="en" table="x_1189834_teampu_0_player_roster">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>date_and_time</element>
+            <help/>
+            <hint/>
+            <label>Date and Time</label>
+            <language>en</language>
+            <name>x_1189834_teampu_0_player_roster</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-31 13:23:21</sys_created_on>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_name>Date and Time</sys_name>
+            <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+            <sys_update_name>sys_documentation_x_1189834_teampu_0_player_roster_date_and_time_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-31 13:33:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

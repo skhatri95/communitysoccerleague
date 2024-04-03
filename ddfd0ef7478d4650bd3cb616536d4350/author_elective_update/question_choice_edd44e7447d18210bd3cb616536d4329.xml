@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="What condition equipment do you need?">88a40a7447d18210bd3cb616536d43ab</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 01:21:59</sys_created_on>
+        <sys_id>edd44e7447d18210bd3cb616536d4329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Good</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>question_choice_edd44e7447d18210bd3cb616536d4329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 01:21:59</sys_updated_on>
+        <text>Good</text>
+        <value>good</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=edd44e7447d18210bd3cb616536d4329"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>question_choice_edd44e7447d18210bd3cb616536d4329</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>200</order><published_ref/><question display_value="What condition equipment do you need?">88a40a7447d18210bd3cb616536d43ab</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-30 01:21:59</sys_created_on><sys_id>edd44e7447d18210bd3cb616536d4329</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Good</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>question_choice_edd44e7447d18210bd3cb616536d4329</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 01:21:59</sys_updated_on><text>Good</text><value>good</value></question_choice><fx_price action="delete_multiple" query="id=edd44e7447d18210bd3cb616536d4329"/></record_update>]]></payload>
+        <payload_hash>456738162</payload_hash>
+        <record_name>Good</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 01:21:59</sys_created_on>
+        <sys_id>a1d44e7447d18210bd3cb616536d4340</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8cf2fff90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 01:21:59</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>e1d44e7412d18210f7e2d48bcdfeff3f</update_guid>
+        <update_guid_history>e1d44e7412d18210f7e2d48bcdfeff3f:456738162</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Good">67d116494759c210bd3cb616536d4393</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 20:57:24</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>8ee3ffba653b48b69832e139f8adc2d1</sys_id>
+        <sys_metadata>edd44e7447d18210bd3cb616536d4329</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Good</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent display_value="What is the current condition of the equipment?">88a40a7447d18210bd3cb616536d43ab</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>question_choice_edd44e7447d18210bd3cb616536d4329</sys_update_name>
+        <sys_update_version display_value="question_choice_edd44e7447d18210bd3cb616536d4329">a1d44e7447d18210bd3cb616536d4340</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 20:57:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

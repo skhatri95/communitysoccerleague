@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="What's the outcome of the event?">97b22b4c4759c650bd3cb616536d4386</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 01:37:10</sys_created_on>
+        <sys_id>e37b106147594610bd3cb616536d4367</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tie</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>question_choice_e37b106147594610bd3cb616536d4367</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 01:37:10</sys_updated_on>
+        <text>Tie</text>
+        <value>tie</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=e37b106147594610bd3cb616536d4367"/>
+</record_update>

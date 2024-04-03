@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item">
+    <sp_rectangle_menu_item action="DELETE">
+        <active>true</active>
+        <color>default</color>
+        <condition/>
+        <display_1/>
+        <display_2/>
+        <display_date/>
+        <filter/>
+        <glyph/>
+        <hint/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <label>Knowledge Base</label>
+        <order>100</order>
+        <record_script/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <sp_page/>
+        <sp_rectangle_menu display_value="TeamPulse Header Menu">1cf41f084719c650bd3cb616536d43af</sp_rectangle_menu>
+        <sp_rectangle_menu_item/>
+        <sys_class_name>sp_rectangle_menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 04:51:32</sys_created_on>
+        <sys_id>2d812c1c479dc650bd3cb616536d4358</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Knowledge Base</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sp_rectangle_menu_item_2d812c1c479dc650bd3cb616536d4358</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 04:51:32</sys_updated_on>
+        <table/>
+        <type>kb</type>
+        <url/>
+        <url_target/>
+    </sp_rectangle_menu_item>
+    <sys_translated_text action="DELETE" query="documentkey=2d812c1c479dc650bd3cb616536d4358"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_rectangle_menu_item_2d812c1c479dc650bd3cb616536d4358</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item"><sp_rectangle_menu_item action="INSERT_OR_UPDATE"><active>true</active><color>default</color><condition/><display_1/><display_2/><display_date/><filter/><glyph/><hint/><kb_article/><kb_category/><kb_topic/><label>Knowledge Base</label><order>100</order><record_script/><sc_cat_item/><sc_category/><short_description/><sp_page/><sp_rectangle_menu display_value="TeamPulse Header Menu">1cf41f084719c650bd3cb616536d43af</sp_rectangle_menu><sp_rectangle_menu_item/><sys_class_name>sp_rectangle_menu_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-28 04:51:32</sys_created_on><sys_id>2d812c1c479dc650bd3cb616536d4358</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Knowledge Base</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sp_rectangle_menu_item_2d812c1c479dc650bd3cb616536d4358</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-28 04:51:32</sys_updated_on><table/><type>kb</type><url/><url_target/></sp_rectangle_menu_item><sys_translated_text action="delete_multiple" query="documentkey=2d812c1c479dc650bd3cb616536d4358"/></record_update>]]></payload>
+        <payload_hash>601100013</payload_hash>
+        <record_name>Knowledge Base</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 04:51:32</sys_created_on>
+        <sys_id>3f912c1c479dc650bd3cb616536d430d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8366231c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 04:51:32</sys_updated_on>
+        <type>Menu Item</type>
+        <update_guid>33912c1ce89dc6504fdaa6e98fcc590d</update_guid>
+        <update_guid_history>33912c1ce89dc6504fdaa6e98fcc590d:601100013</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Knowledge Base">8eb1e81c479dc650bd3cb616536d4315</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 04:51:58</sys_created_on>
+        <sys_db_object display_value="" name="sp_rectangle_menu_item">sp_rectangle_menu_item</sys_db_object>
+        <sys_id>66cbcf6528ed436088e91572b3c31100</sys_id>
+        <sys_metadata>2d812c1c479dc650bd3cb616536d4358</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Knowledge Base</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sp_rectangle_menu_item_2d812c1c479dc650bd3cb616536d4358</sys_update_name>
+        <sys_update_version display_value="sp_rectangle_menu_item_2d812c1c479dc650bd3cb616536d4358">3f912c1c479dc650bd3cb616536d430d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 04:51:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

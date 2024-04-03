@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Injured Players Monitoring">75b1e4014711c210bd3cb616536d43a0</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>x_1189834_teampu_0.csl_coach</identity>
+        <read>true</read>
+        <role display_value="x_1189834_teampu_0.csl_coach" name="x_1189834_teampu_0.csl_coach">16ee19b047118210bd3cb616536d43a5</role>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 16:30:59</sys_created_on>
+        <sys_id>6818afa947598610bd3cb616536d43d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1189834_teampu_0.csl_coach</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_6818afa947598610bd3cb616536d43d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 16:30:59</sys_updated_on>
+        <type>1</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

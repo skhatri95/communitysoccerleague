@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="Players Injuries Monitoring">a0680e7847d18210bd3cb616536d4391</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 01:38:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5c880eb847d18210bd3cb616536d43ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a0680e7847d18210bd3cb616536d4391</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_5c880eb847d18210bd3cb616536d43ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 01:38:00</sys_updated_on>
+        <tab display_value="New Tab 1">c0888ab847d18210bd3cb616536d4379</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>pa_m2m_dashboard_tabs_5c880eb847d18210bd3cb616536d43ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="Players Injuries Monitoring">a0680e7847d18210bd3cb616536d4391</dashboard><home>false</home><homepage/><order>1</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-30 01:38:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5c880eb847d18210bd3cb616536d43ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>a0680e7847d18210bd3cb616536d4391</sys_name><sys_overrides/><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_5c880eb847d18210bd3cb616536d43ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 01:38:00</sys_updated_on><tab display_value="New Tab 1">c0888ab847d18210bd3cb616536d4379</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>1215600609</payload_hash>
+        <record_name>a0680e7847d18210bd3cb616536d4391</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 01:38:00</sys_created_on>
+        <sys_id>d8880eb847d18210bd3cb616536d43cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8d01aabe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 01:38:00</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>dc880eb82dd18210b7acdf9c3dd2bacc</update_guid>
+        <update_guid_history>dc880eb82dd18210b7acdf9c3dd2bacc:1215600609</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Players Injuries Monitoring">f490ec8d47dd8210bd3cb616536d43da</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 12:42:25</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>0aec7e7bce864d38a4b4172ee92a1604</sys_id>
+        <sys_metadata>5c880eb847d18210bd3cb616536d43ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a0680e7847d18210bd3cb616536d4391</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent display_value="">a0680e7847d18210bd3cb616536d4391</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_5c880eb847d18210bd3cb616536d43ca</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_5c880eb847d18210bd3cb616536d43ca">d8880eb847d18210bd3cb616536d43cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 12:42:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

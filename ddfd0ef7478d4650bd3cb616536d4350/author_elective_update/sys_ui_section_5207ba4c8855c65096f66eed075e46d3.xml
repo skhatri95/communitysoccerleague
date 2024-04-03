@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="5207ba4c8855c65096f66eed075e46d3" sys_domain="global" table="sysapproval_approver" version="3" view="2_custom_portal_approval_x_1189834_teampu_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-27 21:05:53</sys_created_on>
+            <sys_id>1e07ba4cc255c650e298ddcb89c579d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="5a07ba4c1355c650b7c608d62b9620d3">5207ba4c8855c65096f66eed075e46d3</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-27 21:05:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-27 21:05:53</sys_created_on>
+            <sys_id>1607ba4c6455c6501a67656e9c0692d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="5a07ba4c1355c650b7c608d62b9620d3">5207ba4c8855c65096f66eed075e46d3</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-27 21:05:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-27 21:05:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5207ba4c8855c65096f66eed075e46d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+            <sys_update_name>sys_ui_section_5207ba4c8855c65096f66eed075e46d3</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-27 21:05:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="2_custom_portal_approval_x_1189834_teampu_0" name="2_custom_portal_approval_x_1189834_teampu_0">5a07ba4c1355c650b7c608d62b9620d3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sys_ui_section_5207ba4c8855c65096f66eed075e46d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="5207ba4c8855c65096f66eed075e46d3" sys_domain="global" table="sysapproval_approver" version="3" view="2_custom_portal_approval_x_1189834_teampu_0"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2024-03-27 21:05:53</sys_created_on><sys_id>1e07ba4cc255c650e298ddcb89c579d3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="5a07ba4c1355c650b7c608d62b9620d3">5207ba4c8855c65096f66eed075e46d3</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-27 21:05:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sysapproval</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2024-03-27 21:05:53</sys_created_on><sys_id>1607ba4c6455c6501a67656e9c0692d4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="5a07ba4c1355c650b7c608d62b9620d3">5207ba4c8855c65096f66eed075e46d3</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-27 21:05:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sysapproval_approver</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-27 21:05:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5207ba4c8855c65096f66eed075e46d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sysapproval_approver</sys_name><sys_overrides/><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sys_ui_section_5207ba4c8855c65096f66eed075e46d3</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-27 21:05:53</sys_updated_on><sys_user/><title>false</title><view display_value="2_custom_portal_approval_x_1189834_teampu_0" name="2_custom_portal_approval_x_1189834_teampu_0">5a07ba4c1355c650b7c608d62b9620d3</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-2060436440</payload_hash>
+        <record_name>Approval</record_name>
+        <reverted_from/>
+        <source>e294840147300210bd3cb616536d4368</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-03-05 14:08:48</sys_created_on>
+        <sys_id>6609f6004795c650bd3cb616536d43ff</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18e0ef20d800000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Form Layout</type>
+        <update_guid>2609f600b395c650039031a0e45f8aff</update_guid>
+        <update_guid_history>2609f600b395c650039031a0e45f8aff:-2060436440</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-27 21:14:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>00a608352c9042ba8001c638b0140384</sys_id>
+        <sys_metadata>5207ba4c8855c65096f66eed075e46d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysapproval_approver</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent display_value="Sysapproval Approver">2a463ca03cb1311068bcf327dfe37fda</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sys_ui_section_5207ba4c8855c65096f66eed075e46d3</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_5207ba4c8855c65096f66eed075e46d3">6609f6004795c650bd3cb616536d43ff</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-27 21:14:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>500</order>
+        <published_ref/>
+        <question display_value="How many jerseys of DC Bulls do you want?">5a2cfc854791c210bd3cb616536d438f</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 14:44:32</sys_created_on>
+        <sys_id>698c30494791c210bd3cb616536d431f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>question_choice_698c30494791c210bd3cb616536d431f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 14:44:32</sys_updated_on>
+        <text>5</text>
+        <value>5</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=698c30494791c210bd3cb616536d431f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>question_choice_698c30494791c210bd3cb616536d431f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>500</order><published_ref/><question display_value="How many jerseys of DC Bulls do you want?">5a2cfc854791c210bd3cb616536d438f</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-30 14:44:32</sys_created_on><sys_id>698c30494791c210bd3cb616536d431f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>5</sys_name><sys_package/><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>question_choice_698c30494791c210bd3cb616536d431f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 14:44:32</sys_updated_on><text>5</text><value>5</value></question_choice><fx_price action="delete_multiple" query="id=698c30494791c210bd3cb616536d431f"/></record_update>]]></payload>
+        <payload_hash>790666778</payload_hash>
+        <record_name>5</record_name>
+        <reverted_from/>
+        <source>6efcf8494791c210bd3cb616536d434a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 14:46:31</sys_created_on>
+        <sys_id>76fc3c494791c210bd3cb616536d4328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8fd3936e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 14:46:31</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>7afc3c496591c210653b01fc6d745727</update_guid>
+        <update_guid_history>7afc3c496591c210653b01fc6d745727:790666778,36fc3c499091c210de7643d44e29d325:-1113575772</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="5">a224206147994610bd3cb616536d4306</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 02:15:03</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>57e5b62ce4684558b58afd2d50c63509</sys_id>
+        <sys_metadata>698c30494791c210bd3cb616536d431f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5</sys_name>
+        <sys_package/>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>question_choice_698c30494791c210bd3cb616536d431f</sys_update_name>
+        <sys_update_version display_value="question_choice_698c30494791c210bd3cb616536d431f">76fc3c494791c210bd3cb616536d4328</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 02:15:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

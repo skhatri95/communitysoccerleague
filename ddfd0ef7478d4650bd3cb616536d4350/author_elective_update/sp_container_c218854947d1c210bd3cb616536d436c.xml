@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Soccer Catalog Home - Container 3</name>
+        <order>3</order>
+        <semantic_tag/>
+        <sp_page display_value="soccer_sc_home">39188dc547d1c210bd3cb616536d4353</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 15:35:05</sys_created_on>
+        <sys_id>c218854947d1c210bd3cb616536d436c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Soccer Catalog Home - Container 3</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sp_container_c218854947d1c210bd3cb616536d436c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 15:37:53</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_container_c218854947d1c210bd3cb616536d436c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Soccer Catalog Home - Container 3</name><order>3</order><semantic_tag/><sp_page display_value="soccer_sc_home">39188dc547d1c210bd3cb616536d4353</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-30 15:35:05</sys_created_on><sys_id>c218854947d1c210bd3cb616536d436c</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Soccer Catalog Home - Container 3</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sp_container_c218854947d1c210bd3cb616536d436c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 15:37:53</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-819518235</payload_hash>
+        <record_name>Soccer Catalog Home - Container 3</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 15:37:53</sys_created_on>
+        <sys_id>c7b8458947d1c210bd3cb616536d43bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e900298bb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 15:37:53</sys_updated_on>
+        <type>Container</type>
+        <update_guid>8fb8458997d1c210bbb81dc55e84ddbe</update_guid>
+        <update_guid_history>8fb8458997d1c210bbb81dc55e84ddbe:-819518235,bda805894ed1c210a72f69685e506f1f:-1491202554,5138494994d1c210176c74e3ea20b309:2016052591,0a1885491ad1c2101a2b90cf517c956d:692419085</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Soccer Catalog Home - Container 3">abc8c58947d1c210bd3cb616536d438b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 15:38:11</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>198a7a5ab51545dab5648f840597b849</sys_id>
+        <sys_metadata>c218854947d1c210bd3cb616536d436c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Soccer Catalog Home - Container 3</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sp_container_c218854947d1c210bd3cb616536d436c</sys_update_name>
+        <sys_update_version display_value="sp_container_c218854947d1c210bd3cb616536d436c">c7b8458947d1c210bd3cb616536d43bf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 15:38:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

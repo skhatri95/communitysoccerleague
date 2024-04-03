@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset">
+    <sys_ux_theme_asset action="INSERT_OR_UPDATE">
+        <category>image</category>
+        <name>now-logo-dark</name>
+        <sys_class_name>sys_ux_theme_asset</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-27 21:05:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1607ba4ce955c65006123a83e7df918c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now-logo-dark</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sys_ux_theme_asset_1607ba4ce955c65006123a83e7df918c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-27 21:05:54</sys_updated_on>
+    </sys_ux_theme_asset>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>ServiceNow_logo_GG.png</file_name>
+        <hash>3adf8faeb55a761e53bd75370f757907171b0f9e7305c8663dcddcc8a297871c</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>0</size_bytes>
+        <size_compressed>9023</size_compressed>
+        <state>available</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-27 21:05:54</sys_created_on>
+        <sys_id>da07ba4c9055c650cde91caef823048b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2024-03-27 21:06:13</sys_updated_on>
+        <table_name>sys_ux_theme_asset</table_name>
+        <table_sys_id>1607ba4ce955c65006123a83e7df918c</table_sys_id>
+    </sys_attachment>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Soccer Shoes">e03a4e91475d0610bd3cb616536d435b</sc_cat_item>
+        <sc_catalog display_value="Soccer Supplies Catalog">df57927747cd4650bd3cb616536d43ca</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-31 15:03:41</sys_created_on>
+        <sys_id>4c8a4ed1475d0610bd3cb616536d43db</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Soccer Supplies Catalog.Soccer Shoes</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_4c8a4ed1475d0610bd3cb616536d43db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-31 15:03:50</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

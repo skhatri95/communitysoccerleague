@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="CSL" name="CSL">0e021cb5475d8610bd3cb616536d4343</category>
+        <collection>x_1189834_teampu_0_injuries</collection>
+        <condition table="x_1189834_teampu_0_injuries">status=treatment^ORstatus=recovering^ORstatus=rehabilitation^ORstatus=retirement^EQ<item display_value="Treatment" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="treatment"/>
+            <item display_value="Recovering" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="recovering"/>
+            <item display_value="Rehabilitation" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="rehabilitation"/>
+            <item display_value="Retirement" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="retirement"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>Greetings,</p>
+<p>The following player has been reported injured:</p>
+<p>Player Name: ${player_id.player_name}</p>
+<p>Team Name: ${player_id.team_id.team_name}</p>
+<p>Description: ${description}</p>
+<p>Please follow CSL guidelines for recovery and take precautions.</p>
+<p>Thanks and regards,<br />CSL Administration</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>When a player is injured</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>player_id.email_address,player_id.team_id.coach_email</recipient_fields>
+        <recipient_groups name="CSL Admins">87312a7c47558210bd3cb616536d4302</recipient_groups>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>IMPORTANT - Player Injury Reported</subject>
+        <subscribable>true</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 19:29:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ee4f40f1475d8610bd3cb616536d4392</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>When a player is injured</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sysevent_email_action_ee4f40f1475d8610bd3cb616536d4392</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-02 19:56:01</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-29 19:06:45</sys_created_on>
+        <sys_id>0dfea4f0471d4210bd3cb616536d4389</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1189834_teampu_0_player.x_1189834_teampu_0.coach</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_security_acl display_value="x_1189834_teampu_0_player">01fea4f0471d4210bd3cb616536d4387</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0dfea4f0471d4210bd3cb616536d4389</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-29 19:06:45</sys_updated_on>
+        <sys_user_role display_value="x_1189834_teampu_0.coach" name="x_1189834_teampu_0.coach">c1fea4f0471d4210bd3cb616536d4373</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

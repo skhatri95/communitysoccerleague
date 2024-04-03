@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Training Shorts">c9ef4ad9475d0610bd3cb616536d433c</sc_cat_item>
+        <sc_category display_value="Shorts">4ef7db0c4719c650bd3cb616536d4324</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-31 15:28:17</sys_created_on>
+        <sys_id>9420ded9475d0610bd3cb616536d4387</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Shorts.Training Shorts</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sc_cat_item_category_9420ded9475d0610bd3cb616536d4387</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-31 15:28:20</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="cac096bb478d4650bd3cb616536d4377" sys_domain="global" table="x_1189834_teampu_0_teampulse" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>event_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-26 23:50:08</sys_created_on>
+            <sys_id>fa03daff478d4650bd3cb616536d43c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-26 23:50:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-26 23:50:08</sys_created_on>
+            <sys_id>7603daff478d4650bd3cb616536d43c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-26 23:50:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>who_s_available</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-26 23:50:08</sys_created_on>
+            <sys_id>fa03daff478d4650bd3cb616536d43c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-26 23:50:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-26 23:50:08</sys_created_on>
+            <sys_id>7203daff478d4650bd3cb616536d43c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-26 23:50:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-26 23:50:08</sys_created_on>
+            <sys_id>f603daff478d4650bd3cb616536d43c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-26 23:50:08</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-26 23:50:08</sys_created_on>
+            <sys_id>7e03daff478d4650bd3cb616536d43c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-26 23:50:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-26 23:50:08</sys_created_on>
+            <sys_id>f203daff478d4650bd3cb616536d43ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-26 23:50:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-26 23:50:08</sys_created_on>
+            <sys_id>7a03daff478d4650bd3cb616536d43ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-26 23:50:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reminder</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-26 23:50:08</sys_created_on>
+            <sys_id>fe03daff478d4650bd3cb616536d43ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-26 23:50:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1189834_teampu_0_teampulse</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-26 23:40:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cac096bb478d4650bd3cb616536d4377</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1189834_teampu_0_teampulse</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+            <sys_update_name>sys_ui_section_cac096bb478d4650bd3cb616536d4377</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-26 23:40:15</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sys_ui_section_cac096bb478d4650bd3cb616536d4377</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="cac096bb478d4650bd3cb616536d4377" sys_domain="global" table="x_1189834_teampu_0_teampulse" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>event_name</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 23:50:08</sys_created_on><sys_id>fa03daff478d4650bd3cb616536d43c7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-26 23:50:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>date</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 23:50:08</sys_created_on><sys_id>7603daff478d4650bd3cb616536d43c8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-26 23:50:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>who_s_available</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 23:50:08</sys_created_on><sys_id>fa03daff478d4650bd3cb616536d43c8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-26 23:50:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 23:50:08</sys_created_on><sys_id>7203daff478d4650bd3cb616536d43c9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-26 23:50:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 23:50:08</sys_created_on><sys_id>f603daff478d4650bd3cb616536d43c9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-26 23:50:08</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>location</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 23:50:08</sys_created_on><sys_id>7e03daff478d4650bd3cb616536d43c9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-26 23:50:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>time</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 23:50:08</sys_created_on><sys_id>f203daff478d4650bd3cb616536d43ca</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-26 23:50:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>status</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 23:50:08</sys_created_on><sys_id>7a03daff478d4650bd3cb616536d43ca</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-26 23:50:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>reminder</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 23:50:08</sys_created_on><sys_id>fe03daff478d4650bd3cb616536d43ca</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1189834_teampu_0_teampulse" sys_domain="global" view="Default view">cac096bb478d4650bd3cb616536d4377</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-26 23:50:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1189834_teampu_0_teampulse</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 23:40:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cac096bb478d4650bd3cb616536d4377</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1189834_teampu_0_teampulse</sys_name><sys_overrides/><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sys_ui_section_cac096bb478d4650bd3cb616536d4377</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-26 23:40:15</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-865393931</payload_hash>
+        <record_name>TeamPulse</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 23:50:08</sys_created_on>
+        <sys_id>8703daff478d4650bd3cb616536d43cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e7d2bd60b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-26 23:50:08</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>7e03daffa78d4650095f5ad7e3d99dcc</update_guid>
+        <update_guid_history>7e03daffa78d4650095f5ad7e3d99dcc:-865393931,4ec0d63f758d465011afb21009cb49ed:1188378311,4ac096bbc68d4650f19f625e2945317a:2009068598</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 14:20:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>155f6ad846cb4f9c8cee37e209153610</sys_id>
+        <sys_metadata>cac096bb478d4650bd3cb616536d4377</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1189834_teampu_0_teampulse</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent display_value="">33b0563f478d4650bd3cb616536d4321</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sys_ui_section_cac096bb478d4650bd3cb616536d4377</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_cac096bb478d4650bd3cb616536d4377">8703daff478d4650bd3cb616536d43cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 14:20:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
