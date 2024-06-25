@@ -37,18 +37,18 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>status</name>
-        <order>800</order>
+        <order>600</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
         <question_text>What is the current status of the game?</question_text>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <read_script/>
         <rec_lookup_price/>
@@ -56,8 +56,8 @@
         <record/>
         <record_producer_table>x_1189834_teampu_0_event</record_producer_table>
         <reference/>
-        <reference_qual>undefined</reference_qual>
-        <reference_qual_condition>undefined</reference_qual_condition>
+        <reference_qual/>
+        <reference_qual_condition/>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -77,14 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-01 01:38:34</sys_created_on>
         <sys_id>f48b9c2147594610bd3cb616536d4366</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>What is the current status of the game?</sys_name>
         <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
         <sys_policy/>
         <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
         <sys_update_name>item_option_new_f48b9c2147594610bd3cb616536d4366</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-01 03:31:50</sys_updated_on>
+        <sys_updated_on>2024-06-21 20:48:04</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>

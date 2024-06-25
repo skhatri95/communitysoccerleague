@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id display_value="CSL Admins" name="CSL Admins">87312a7c47558210bd3cb616536d4302</group_id>
-        <report_id display_value="Players' Ongoing Treatment">72d320814711c210bd3cb616536d43fb</report_id>
+        <report_id display_value="Players' Ongoing Treatment - Recovery Time">72d320814711c210bd3cb616536d43fb</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-01 16:45:11</sys_created_on>

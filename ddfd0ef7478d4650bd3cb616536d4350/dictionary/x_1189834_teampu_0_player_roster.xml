@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="c382b99147d90610bd3cb616536d4324" label="Player Roster" max_length="40" name="x_1189834_teampu_0_player_roster" type="collection">
         <element label="Date and Time" mandatory="true" max_length="32" name="date_and_time" type="glide_date_time"/>
-        <element label="Event ID" mandatory="true" max_length="32" name="event_id" reference="x_1189834_teampu_0_event" type="reference"/>
-        <element label="Location" mandatory="true" max_length="32" name="location" reference="cmn_location" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Roster ID" max_length="40" name="number" read_only="true" type="string"/>
-        <element display="true" label="Playing Roster" mandatory="true" max_length="1024" name="playing_roster" reference="x_1189834_teampu_0_player" type="glide_list"/>
         <element label="Team Name" mandatory="true" max_length="32" name="team_name" reference="x_1189834_teampu_0_team" type="reference"/>
+        <element label="Location" mandatory="true" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element label="Event ID" mandatory="true" max_length="32" name="event_id" reference="x_1189834_teampu_0_event" type="reference"/>
+        <element display="true" label="Playing Roster" mandatory="true" max_length="1024" name="playing_roster" reference="x_1189834_teampu_0_player" type="glide_list"/>
         <index name="index">
             <element name="event_id"/>
         </index>

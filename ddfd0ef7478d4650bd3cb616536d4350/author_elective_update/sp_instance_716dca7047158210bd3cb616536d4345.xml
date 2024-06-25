@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">6f85a97c47118210bd3cb616536d438d</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 01:59:25</sys_created_on>
+        <sys_id>716dca7047158210bd3cb616536d4345</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Players Injuries Dashboard</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sp_instance_716dca7047158210bd3cb616536d4345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-31 14:16:23</sys_updated_on>
+        <title>Players Injuries Dashboard</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p><iframe style=\"overflow: hidden; height: 800px; width: 100%;\" src=\"https://dev88186.service-now.com/$pa_dashboard.do?sysparm_dashboard=75b1e4014711c210bd3cb616536d43a0&amp;sysparm_tab=e3c160cd47dd8210bd3cb616536d43e7&amp;sysparm_cancelable=true&amp;sysparm_editable=undefined&amp;sysparm_active_panel=false\" width=\"100%\" height=\"100%\" frameborder=\"0\"></iframe></p>",
+		"displayValue": "<p><iframe style=\"overflow: hidden; height: 800px; width: 100%;\" src=\"https://dev88186.service-now.com/$pa_dashboard.do?sysparm_dashboard=75b1e4014711c210bd3cb616536d43a0&amp;sysparm_tab=e3c160cd47dd8210bd3cb616536d43e7&amp;sysparm_cancelable=true&amp;sysparm_editable=undefined&amp;sysparm_active_panel=false\" width=\"100%\" height=\"100%\" frameborder=\"0\"></iframe></p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=716dca7047158210bd3cb616536d4345"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_instance_716dca7047158210bd3cb616536d4345</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;6f85a97c47118210bd3cb616536d438d&lt;/sp_column&gt;&lt;sp_widget display_value="HTML"&gt;8679ef89cb21120000f8d856634c9c4f&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-03-30 01:59:25&lt;/sys_created_on&gt;&lt;sys_id&gt;716dca7047158210bd3cb616536d4345&lt;/sys_id&gt;&lt;sys_mod_count&gt;8&lt;/sys_mod_count&gt;&lt;sys_name&gt;Players Injuries Dashboard&lt;/sys_name&gt;&lt;sys_package display_value="TeamPulse" source="x_1189834_teampu_0"&gt;ddfd0ef7478d4650bd3cb616536d4350&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="TeamPulse"&gt;ddfd0ef7478d4650bd3cb616536d4350&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_716dca7047158210bd3cb616536d4345&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-03-31 14:16:23&lt;/sys_updated_on&gt;&lt;title&gt;Players Injuries Dashboard&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"html": {
+		"value": "&lt;p&gt;&lt;iframe style=\"overflow: hidden; height: 800px; width: 100%;\" src=\"https://dev88186.service-now.com/$pa_dashboard.do?sysparm_dashboard=75b1e4014711c210bd3cb616536d43a0&amp;amp;sysparm_tab=e3c160cd47dd8210bd3cb616536d43e7&amp;amp;sysparm_cancelable=true&amp;amp;sysparm_editable=undefined&amp;amp;sysparm_active_panel=false\" width=\"100%\" height=\"100%\" frameborder=\"0\"&gt;&lt;/iframe&gt;&lt;/p&gt;",
+		"displayValue": "&lt;p&gt;&lt;iframe style=\"overflow: hidden; height: 800px; width: 100%;\" src=\"https://dev88186.service-now.com/$pa_dashboard.do?sysparm_dashboard=75b1e4014711c210bd3cb616536d43a0&amp;amp;sysparm_tab=e3c160cd47dd8210bd3cb616536d43e7&amp;amp;sysparm_cancelable=true&amp;amp;sysparm_editable=undefined&amp;amp;sysparm_active_panel=false\" width=\"100%\" height=\"100%\" frameborder=\"0\"&gt;&lt;/iframe&gt;&lt;/p&gt;"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=716dca7047158210bd3cb616536d4345"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1260221053</payload_hash>
+        <record_name>Players Injuries Dashboard</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-31 14:16:23</sys_created_on>
+        <sys_id>dbafb915471d0610bd3cb616536d430b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e94de59a50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-31 14:16:23</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>53afb915921d06107557b5b9de9b3b0b</update_guid>
+        <update_guid_history>53afb915921d06107557b5b9de9b3b0b:-1260221053,e0d46c05e411c2102ebb3b8b4261423f:-148978591,e56424055b11c2109261006d6effa478:-1089960223,1effc27493158210490b7a13c12c6082:-1339216671,0afdc6b00c1582108fe81c0dad9384db:2106274337,ebdd46b0ff1582104f22abce26fe1dff:1256798049,c6adc67090158210067fa848db55afcb:-1799420897,2e7dca70ff158210a14139e125088568:-1007650441,fd6dca7016158210ddeb0e1bdd564846:598198334</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Players Injuries Dashboard">8196e57b47be4e50bd3cb616536d43e9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 20:25:44</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>3f2c1039f6584416beb820bf740c4dc4</sys_id>
+        <sys_metadata>716dca7047158210bd3cb616536d4345</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Players Injuries Dashboard</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sp_instance_716dca7047158210bd3cb616536d4345</sys_update_name>
+        <sys_update_version display_value="sp_instance_716dca7047158210bd3cb616536d4345">dbafb915471d0610bd3cb616536d430b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 20:25:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

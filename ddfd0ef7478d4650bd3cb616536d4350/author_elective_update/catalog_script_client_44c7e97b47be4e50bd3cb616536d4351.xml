@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="DELETE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item display_value="Create a Team">2309da4447d1c650bd3cb616536d43cb</cat_item>
+        <cat_variable>IO:fc1d52c847d1c650bd3cb616536d4393</cat_variable>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>CSLCoachEmailAutoPopulate</name>
+        <order/>
+        <published_ref/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+    if (isLoading || newValue == '') {
+        return;
+    }
+    //gatherLocation is the script include class
+    var ga = new GlideAjax('cslCoachEmailAutoPopulate'); 
+	//locationDetail is the script include method
+    ga.addParam('sysparm_name', 'locationDetail'); 
+	//Set parameter sysparm_user_sysid to 'assigned_to'
+    ga.addParam('sysparm_user_sysid', g_form.getValue("assigned_to")); 
+	/* Call getLocation.locationDetail() with the parameter sysparm_user_sysid set to 'requested_for'
+	and use the callback function setLocation() to return the result when ready */
+	ga.getXML(setLocation);	
+}
+//the callback function for returning the result from the server-side code
+	function setLocation(response){
+	var answer = response.responseXML.documentElement.getAttribute("answer");
+	g_form.setValue('location', answer);
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 20:30:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>44c7e97b47be4e50bd3cb616536d4351</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CSLCoachEmailAutoPopulate</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>catalog_script_client_44c7e97b47be4e50bd3cb616536d4351</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 20:32:58</sys_updated_on>
+        <table/>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <va_supported>true</va_supported>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>catalog_script_client_44c7e97b47be4e50bd3cb616536d4351</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="catalog_script_client"&gt;&lt;catalog_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_catalog&gt;true&lt;/applies_catalog&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;applies_req_item&gt;false&lt;/applies_req_item&gt;&lt;applies_sc_task&gt;false&lt;/applies_sc_task&gt;&lt;applies_target_record&gt;false&lt;/applies_target_record&gt;&lt;applies_to&gt;item&lt;/applies_to&gt;&lt;cat_item display_value="Create a Team"&gt;2309da4447d1c650bd3cb616536d43cb&lt;/cat_item&gt;&lt;cat_variable&gt;IO:fc1d52c847d1c650bd3cb616536d4393&lt;/cat_variable&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;CSLCoachEmailAutoPopulate&lt;/name&gt;&lt;order/&gt;&lt;published_ref/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+    if (isLoading || newValue == '') {
+        return;
+    }
+    //gatherLocation is the script include class
+    var ga = new GlideAjax('cslCoachEmailAutoPopulate'); 
+	//locationDetail is the script include method
+    ga.addParam('sysparm_name', 'locationDetail'); 
+	//Set parameter sysparm_user_sysid to 'assigned_to'
+    ga.addParam('sysparm_user_sysid', g_form.getValue("assigned_to")); 
+	/* Call getLocation.locationDetail() with the parameter sysparm_user_sysid set to 'requested_for'
+	and use the callback function setLocation() to return the result when ready */
+	ga.getXML(setLocation);	
+}
+//the callback function for returning the result from the server-side code
+	function setLocation(response){
+	var answer = response.responseXML.documentElement.getAttribute("answer");
+	g_form.setValue('location', answer);
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;catalog_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-06-21 20:30:51&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;44c7e97b47be4e50bd3cb616536d4351&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;CSLCoachEmailAutoPopulate&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Community Soccer League" source="x_1189834_teampu_0"&gt;ddfd0ef7478d4650bd3cb616536d4350&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Community Soccer League"&gt;ddfd0ef7478d4650bd3cb616536d4350&lt;/sys_scope&gt;&lt;sys_update_name&gt;catalog_script_client_44c7e97b47be4e50bd3cb616536d4351&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-06-21 20:32:58&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;va_supported&gt;true&lt;/va_supported&gt;&lt;variable_set/&gt;&lt;view/&gt;&lt;/catalog_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1393233864</payload_hash>
+        <record_name>CSLCoachEmailAutoPopulate</record_name>
+        <reverted_from/>
+        <source>b97a6e1647918a10bd3cb616536d437a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 20:32:58</sys_created_on>
+        <sys_id>8f38213f47be4e50bd3cb616536d435c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1903c8098490000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 20:32:58</sys_updated_on>
+        <type>Catalog Client Scripts</type>
+        <update_guid>0738213f69be4e50ec9a1f0873d64a5c</update_guid>
+        <update_guid_history>0738213f69be4e50ec9a1f0873d64a5c:1393233864,c8c765fb2fbe4e50d2eee5e0d596124b:30289090</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CSLCoachEmailAutoPopulate">afe8217f47be4e50bd3cb616536d4346</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 20:36:02</sys_created_on>
+        <sys_db_object display_value="" name="catalog_script_client">catalog_script_client</sys_db_object>
+        <sys_id>07ba51f2b30e4e048844cf42e3067390</sys_id>
+        <sys_metadata>44c7e97b47be4e50bd3cb616536d4351</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CSLCoachEmailAutoPopulate</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>catalog_script_client_44c7e97b47be4e50bd3cb616536d4351</sys_update_name>
+        <sys_update_version display_value="catalog_script_client_44c7e97b47be4e50bd3cb616536d4351">8f38213f47be4e50bd3cb616536d435c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 20:36:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

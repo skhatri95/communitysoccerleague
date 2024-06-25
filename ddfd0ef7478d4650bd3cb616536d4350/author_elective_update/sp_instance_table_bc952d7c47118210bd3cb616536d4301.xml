@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <display_field/>
+        <field_list>number,date_and_time,location,home_team,away_team,status,outcome</field_list>
+        <filter/>
+        <glyph>calendar</glyph>
+        <id/>
+        <maximum_entries>10</maximum_entries>
+        <order>2</order>
+        <order_by>date_and_time</order_by>
+        <order_direction>desc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">6f85a97c47118210bd3cb616536d438d</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-29 23:05:24</sys_created_on>
+        <sys_id>bc952d7c47118210bd3cb616536d4301</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Matches - Community Soccer League</sys_name>
+        <sys_package display_value="Team Pulse - Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Team Pulse - Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sp_instance_table_bc952d7c47118210bd3cb616536d4301</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 21:53:52</sys_updated_on>
+        <table>x_1189834_teampu_0_event</table>
+        <title>Matches - Community Soccer League</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=bc952d7c47118210bd3cb616536d4301"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_instance_table_bc952d7c47118210bd3cb616536d4301</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table"><sp_instance_table action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>primary</color><css/><display_field/><field_list>number,date_and_time,location,home_team,away_team,status,outcome</field_list><filter/><glyph>calendar</glyph><id/><maximum_entries>10</maximum_entries><order>2</order><order_by>date_and_time</order_by><order_direction>desc</order_direction><roles/><short_description/><size>md</size><sp_column display_value="1">6f85a97c47118210bd3cb616536d438d</sp_column><sp_page/><sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget><sys_class_name>sp_instance_table</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-29 23:05:24</sys_created_on><sys_id>bc952d7c47118210bd3cb616536d4301</sys_id><sys_mod_count>8</sys_mod_count><sys_name>Matches - Community Soccer League</sys_name><sys_package display_value="Team Pulse - Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="Team Pulse - Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sp_instance_table_bc952d7c47118210bd3cb616536d4301</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-01 21:53:52</sys_updated_on><table>x_1189834_teampu_0_event</table><title>Matches - Community Soccer League</title><url/><widget_parameters/></sp_instance_table><sys_translated_text action="delete_multiple" query="documentkey=bc952d7c47118210bd3cb616536d4301"/></record_update>]]></payload>
+        <payload_hash>-141314017</payload_hash>
+        <record_name>Matches - Community Soccer League</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 21:53:52</sys_created_on>
+        <sys_id>92f130714711c610bd3cb616536d4342</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e9ba78bd00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 21:53:52</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>5af130717f11c61027ea81013ea76741</update_guid>
+        <update_guid_history>5af130717f11c61027ea81013ea76741:-141314017,8a61b4310811c610a3f9e28fc4429a67:461682635,db41fcfd8fdd8610c4e92aa8ca204e2f:1268663595,13afb9151f1d06100803d7854fbd4a0f:2047396371,e2220670a2d18210b26a73d54fc26004:686630034,7912c670eed1821091a75513289ed0b4:1434845668,a0f5a5bc4f118210f5e236d15272d3ac:686630034,ccd5ad7c101182106f639ef70d53cc7c:-1712361073,89952d7c3e118210efe19476c5d9bd03:-930314512</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Matches - Community Soccer League">0996697b47be4e50bd3cb616536d4364</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 20:25:45</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>121b60910a08461484433c689e2fc149</sys_id>
+        <sys_metadata>bc952d7c47118210bd3cb616536d4301</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Matches - Community Soccer League</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sp_instance_table_bc952d7c47118210bd3cb616536d4301</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_bc952d7c47118210bd3cb616536d4301">92f130714711c610bd3cb616536d4342</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 20:25:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
