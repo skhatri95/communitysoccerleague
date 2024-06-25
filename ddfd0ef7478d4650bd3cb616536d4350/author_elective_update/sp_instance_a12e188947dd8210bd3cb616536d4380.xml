@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">f7f17e844755c650bd3cb616536d436c</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 12:31:48</sys_created_on>
+        <sys_id>a12e188947dd8210bd3cb616536d4380</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sp_instance_a12e188947dd8210bd3cb616536d4380</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 13:41:51</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p><iframe style=\"overflow: hidden; height: 800px; width: 100%;\" src=\"https://dev88186.service-now.com/$pa_dashboard.do?sysparm_dashboard=897b688d4711c210bd3cb616536d43ce&amp;sysparm_tab=1c8be88d4711c210bd3cb616536d432b&amp;sysparm_cancelable=true&amp;sysparm_editable=false&amp;sysparm_active_panel=false\" width=\"100%\" height=\"auto\" frameborder=\"0\"></iframe></p>",
+		"displayValue": "<p><iframe style=\"overflow: hidden; height: 800px; width: 100%;\" src=\"https://dev88186.service-now.com/$pa_dashboard.do?sysparm_dashboard=897b688d4711c210bd3cb616536d43ce&amp;sysparm_tab=1c8be88d4711c210bd3cb616536d432b&amp;sysparm_cancelable=true&amp;sysparm_editable=false&amp;sysparm_active_panel=false\" width=\"100%\" height=\"auto\" frameborder=\"0\"></iframe></p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=a12e188947dd8210bd3cb616536d4380"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_instance_a12e188947dd8210bd3cb616536d4380</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;f7f17e844755c650bd3cb616536d436c&lt;/sp_column&gt;&lt;sp_widget display_value="HTML"&gt;8679ef89cb21120000f8d856634c9c4f&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-03-30 12:31:48&lt;/sys_created_on&gt;&lt;sys_id&gt;a12e188947dd8210bd3cb616536d4380&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="TeamPulse" source="x_1189834_teampu_0"&gt;ddfd0ef7478d4650bd3cb616536d4350&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="TeamPulse"&gt;ddfd0ef7478d4650bd3cb616536d4350&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_a12e188947dd8210bd3cb616536d4380&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-03-30 13:41:51&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"html": {
+		"value": "&lt;p&gt;&lt;iframe style=\"overflow: hidden; height: 800px; width: 100%;\" src=\"https://dev88186.service-now.com/$pa_dashboard.do?sysparm_dashboard=897b688d4711c210bd3cb616536d43ce&amp;amp;sysparm_tab=1c8be88d4711c210bd3cb616536d432b&amp;amp;sysparm_cancelable=true&amp;amp;sysparm_editable=false&amp;amp;sysparm_active_panel=false\" width=\"100%\" height=\"auto\" frameborder=\"0\"&gt;&lt;/iframe&gt;&lt;/p&gt;",
+		"displayValue": "&lt;p&gt;&lt;iframe style=\"overflow: hidden; height: 800px; width: 100%;\" src=\"https://dev88186.service-now.com/$pa_dashboard.do?sysparm_dashboard=897b688d4711c210bd3cb616536d43ce&amp;amp;sysparm_tab=1c8be88d4711c210bd3cb616536d432b&amp;amp;sysparm_cancelable=true&amp;amp;sysparm_editable=false&amp;amp;sysparm_active_panel=false\" width=\"100%\" height=\"auto\" frameborder=\"0\"&gt;&lt;/iframe&gt;&lt;/p&gt;"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a12e188947dd8210bd3cb616536d4380"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1992893888</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 13:41:51</sys_created_on>
+        <sys_id>a32ee8814751c210bd3cb616536d4347</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8f9860470000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 13:41:51</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>6b2ee881ee51c2107641da89e06f9e46</update_guid>
+        <update_guid_history>6b2ee881ee51c2107641da89e06f9e46:-1992893888,31fdec41b551c210651b46a4e2de9967:-1180205216,9c2f140dabdd82101ab0a977deb1f613:-1895982240,6d2e18893cdd8210aeaa9a8b7b584d81:1683328560</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e3d1edb347be4e50bd3cb616536d43d3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 20:05:10</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>193f4dc01c8f49419fc33996e9e8aca1</sys_id>
+        <sys_metadata>a12e188947dd8210bd3cb616536d4380</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sp_instance_a12e188947dd8210bd3cb616536d4380</sys_update_name>
+        <sys_update_version display_value="sp_instance_a12e188947dd8210bd3cb616536d4380">a32ee8814751c210bd3cb616536d4347</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 20:05:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

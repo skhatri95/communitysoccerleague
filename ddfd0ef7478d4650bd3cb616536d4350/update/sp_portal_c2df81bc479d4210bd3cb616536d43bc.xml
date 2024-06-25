@@ -11,7 +11,7 @@
         <icon>ad61d97047dd4210bd3cb616536d4376</icon>
         <kb_knowledge_base/>
         <kb_knowledge_page display_value="kb_category">0e461a2147132100ba13a5554ee4900e</kb_knowledge_page>
-        <login_page display_value="login">6995a144cb11120000f8d856634c9c25</login_page>
+        <login_page display_value="csl_login">6d312d7347be4e50bd3cb616536d43e8</login_page>
         <logo>cd30113047dd4210bd3cb616536d43f4</logo>
         <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
         <quick_start_config/>
@@ -27,14 +27,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-29 21:31:53</sys_created_on>
         <sys_id>c2df81bc479d4210bd3cb616536d43bc</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>CSL Player</sys_name>
         <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
         <sys_policy/>
         <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
         <sys_update_name>sp_portal_c2df81bc479d4210bd3cb616536d43bc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-02 17:58:56</sys_updated_on>
+        <sys_updated_on>2024-06-21 20:03:15</sys_updated_on>
         <theme display_value="Stock">79315153cb33310000f8d856634c9c4b</theme>
         <title>CSL Player</title>
         <ts_index_group/>

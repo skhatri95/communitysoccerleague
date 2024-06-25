@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>padding-top-lg</class_name>
+        <container_class_name/>
+        <name>Community Soccer League - Container 6</name>
+        <order>6</order>
+        <semantic_tag/>
+        <sp_page display_value="csl">abf172844755c650bd3cb616536d432c</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 20:43:51</sys_created_on>
+        <sys_id>b3f17e844755c650bd3cb616536d432c</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Community Soccer League - Container 6</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sp_container_b3f17e844755c650bd3cb616536d432c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 20:04:24</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_container_b3f17e844755c650bd3cb616536d432c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name>padding-top-lg</class_name><container_class_name/><name>Community Soccer League - Container 6</name><order>6</order><semantic_tag/><sp_page display_value="csl">abf172844755c650bd3cb616536d432c</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-27 20:43:51</sys_created_on><sys_id>b3f17e844755c650bd3cb616536d432c</sys_id><sys_mod_count>8</sys_mod_count><sys_name>Community Soccer League - Container 6</sys_name><sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sp_container_b3f17e844755c650bd3cb616536d432c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-21 20:04:24</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1228328634</payload_hash>
+        <record_name>Community Soccer League - Container 6</record_name>
+        <reverted_from/>
+        <source>b97a6e1647918a10bd3cb616536d437a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 20:04:24</sys_created_on>
+        <sys_id>ecb169b347be4e50bd3cb616536d43d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1903c666ff30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 20:04:24</sys_updated_on>
+        <type>Container</type>
+        <update_guid>64b169b3b6be4e50812f4ea0dae5b4d5</update_guid>
+        <update_guid_history>64b169b3b6be4e50812f4ea0dae5b4d5:1228328634,b1dc1c25cc594610b198e4c42fbd8510:-614781940,f91c10e1c6594610fd4188ff666e0026:1249909997,768d1089cadd8210701cce326c4424b9:-614781940,90dc1049fcdd82101123b3064d32da5f:1249909997,3f1801741a9d4210d2555ee2d378b6c8:-614781940,f37bb8f0625d4210011e876b989ed60b:-577153698,fd52b6c42a55c65093a755416b60b617:691412429,2c2232c41155c65032e7209775766f78:-882973131,f7f17e84d555c650771e81990ba8a62d:-617424523</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Community Soccer League - Container 6">a3d1adb347be4e50bd3cb616536d4394</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 20:05:10</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>8948dce02f7744aa9785f4dcf5444f41</sys_id>
+        <sys_metadata>b3f17e844755c650bd3cb616536d432c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Community Soccer League - Container 6</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sp_container_b3f17e844755c650bd3cb616536d432c</sys_update_name>
+        <sys_update_version display_value="sp_container_b3f17e844755c650bd3cb616536d432c">ecb169b347be4e50bd3cb616536d43d5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 20:05:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

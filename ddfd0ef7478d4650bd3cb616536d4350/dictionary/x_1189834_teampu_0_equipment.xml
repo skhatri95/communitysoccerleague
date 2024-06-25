@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="944412cc4791c650bd3cb616536d437f" label="Equipment" max_length="40" name="x_1189834_teampu_0_equipment" type="collection">
-        <element attributes="encode_utf8=false" label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Condition" mandatory="true" max_length="40" name="condition" type="choice">
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Needs replacement" sequence="0" value="needs_replacement"/>
-                <element inactive_on_update="false" label="Needs maintenance" sequence="1" value="needs_maintenance"/>
+                <element inactive_on_update="false" label="Review" sequence="0" value="review"/>
+                <element inactive_on_update="false" label="Request received" sequence="3" value="request_received"/>
+                <element inactive_on_update="false" label="Processing" sequence="1" value="processing"/>
+                <element inactive_on_update="false" label="Completed" sequence="2" value="completed"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Maintenance Date" max_length="40" name="maintenance_date" type="glide_date"/>
+        <element label="Request Item ID" mandatory="true" max_length="50" name="request_item_id" type="string"/>
+        <element attributes="encode_utf8=false" label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Equipment Report ID" max_length="50" name="number" read_only="true" type="string"/>
         <element choice="1" label="Quantity" mandatory="true" max_length="40" name="quantity" type="choice">
             <choice>
                 <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="5" sequence="4" value="5"/>
                 <element inactive_on_update="false" label="2" sequence="1" value="2"/>
                 <element inactive_on_update="false" label="3" sequence="2" value="3"/>
                 <element inactive_on_update="false" label="4" sequence="3" value="4"/>
-                <element inactive_on_update="false" label="5" sequence="4" value="5"/>
-            </choice>
-        </element>
-        <element label="Request Item ID" mandatory="true" max_length="50" name="request_item_id" type="string"/>
-        <element choice="1" label="Status" max_length="40" name="status" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="Review" sequence="0" value="review"/>
-                <element inactive_on_update="false" label="Processing" sequence="1" value="processing"/>
-                <element inactive_on_update="false" label="Completed" sequence="2" value="completed"/>
-                <element inactive_on_update="false" label="Request received" sequence="3" value="request_received"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Type" mandatory="true" max_length="40" name="type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Uniform" sequence="0" value="uniform"/>
-                <element inactive_on_update="false" label="Ball" sequence="1" value="ball"/>
                 <element inactive_on_update="false" label="Guards" sequence="2" value="guards"/>
-                <element inactive_on_update="false" label="Gloves" sequence="3" value="gloves"/>
-                <element inactive_on_update="false" label="Pads" sequence="4" value="pads"/>
-                <element inactive_on_update="false" label="Shoes" sequence="5" value="shoes"/>
                 <element inactive_on_update="false" label="Bags" sequence="6" value="bags"/>
                 <element inactive_on_update="false" label="Others" sequence="7" value="others"/>
+                <element inactive_on_update="false" label="Gloves" sequence="3" value="gloves"/>
+                <element inactive_on_update="false" label="Ball" sequence="1" value="ball"/>
+                <element inactive_on_update="false" label="Pads" sequence="4" value="pads"/>
+                <element inactive_on_update="false" label="Shoes" sequence="5" value="shoes"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Maintenance Date" max_length="40" name="maintenance_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Condition" mandatory="true" max_length="40" name="condition" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Needs replacement" sequence="0" value="needs_replacement"/>
+                <element inactive_on_update="false" label="Needs maintenance" sequence="1" value="needs_maintenance"/>
             </choice>
         </element>
         <index name="index">

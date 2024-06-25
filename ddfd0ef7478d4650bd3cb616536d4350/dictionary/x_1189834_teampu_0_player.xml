@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="4c70d6484791c650bd3cb616536d4375" label="Player" max_length="40" name="x_1189834_teampu_0_player" type="collection">
-        <element label="Email Address" mandatory="true" max_length="50" name="email_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Player ID" max_length="40" name="number_2" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Health Status" mandatory="true" max_length="40" name="health_status" type="choice">
             <choice>
+                <element inactive_on_update="false" label="Fit" sequence="2" value="fit"/>
                 <element inactive_on_update="false" label="Injured" sequence="0" value="injured"/>
                 <element inactive_on_update="false" label="Questionable" sequence="1" value="questionable"/>
-                <element inactive_on_update="false" label="Fit" sequence="2" value="fit"/>
             </choice>
-        </element>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Player ID" max_length="40" name="number_2" read_only="true" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" display="true" label="Player Name" mandatory="true" max_length="100" name="player_name" reference="sys_user" type="reference">
-            <choice/>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Role" mandatory="true" max_length="50" name="role" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Goalkeeper" sequence="0" value="goalkeeper"/>
                 <element inactive_on_update="false" label="Forward" sequence="1" value="forward"/>
+                <element inactive_on_update="false" label="Goalkeeper" sequence="0" value="goalkeeper"/>
                 <element inactive_on_update="false" label="Midfielder" sequence="2" value="midfielder"/>
                 <element inactive_on_update="false" label="Back" sequence="3" value="back"/>
             </choice>
         </element>
+        <element label="Email Address" mandatory="true" max_length="50" name="email_address" type="string"/>
         <element label="Team ID" mandatory="true" max_length="32" name="team_id" reference="x_1189834_teampu_0_team" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" display="true" label="Player Name" mandatory="true" max_length="100" name="player_name" reference="sys_user" type="reference">
+            <choice/>
+        </element>
         <index name="index">
             <element name="team_id"/>
         </index>

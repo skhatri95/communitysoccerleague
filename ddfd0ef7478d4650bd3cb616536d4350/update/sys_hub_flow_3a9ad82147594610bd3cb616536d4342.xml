@@ -12,6 +12,7 @@
         <copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from>
         <copied_from_name>FlowTemplate_Empty</copied_from_name>
         <description/>
+        <display_name_after_preview/>
         <flow_priority/>
         <generation_source/>
         <internal_name>change_the_status_of_the_match_to_on_time</internal_name>
@@ -29,6 +30,7 @@
         <show_draft_actions>false</show_draft_actions>
         <show_triggered_flows>false</show_triggered_flows>
         <status>draft</status>
+        <substatus/>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-01 01:33:17</sys_created_on>

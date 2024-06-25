@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="DELETE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item display_value="Create a Team">2309da4447d1c650bd3cb616536d43cb</cat_item>
+        <cat_variable/>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>CheckDuplicateTeam</name>
+        <order/>
+        <published_ref/>
+        <script><![CDATA[function onSubmit() {
+    // Get the team name and location values
+    var team_name = g_form.getValue('team_name');
+    var location = g_form.getValue('location');
+
+    // Call the Script Include to check for duplicates
+    var ga = new GlideAjax('CheckDuplicateTeam');
+    ga.addParam('sysparm_name', 'checkDuplicate');
+    ga.addParam('team_name', team_name);
+    ga.addParam('location', location);
+
+    var duplicate = false;
+    ga.getXMLAnswer(function(response) {
+        duplicate = response.responseXML.documentElement.getAttribute('answer') == 'true';
+        if (duplicate) {
+            g_form.addErrorMessage('A team with this name and location already exists.');
+            // Prevent form submission
+            g_form.submitted = false;
+        } else {
+            g_form.submit();
+        }
+    });
+
+    // Return false to prevent form submission until the check is complete
+    return false;
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-25 18:05:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>557ca94d47430690bd3cb616536d43c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CheckDuplicateTeam</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>catalog_script_client_557ca94d47430690bd3cb616536d43c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-25 18:05:21</sys_updated_on>
+        <table/>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <va_supported>true</va_supported>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>catalog_script_client_557ca94d47430690bd3cb616536d43c3</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="catalog_script_client"&gt;&lt;catalog_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_catalog&gt;true&lt;/applies_catalog&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;applies_req_item&gt;false&lt;/applies_req_item&gt;&lt;applies_sc_task&gt;false&lt;/applies_sc_task&gt;&lt;applies_target_record&gt;false&lt;/applies_target_record&gt;&lt;applies_to&gt;item&lt;/applies_to&gt;&lt;cat_item display_value="Create a Team"&gt;2309da4447d1c650bd3cb616536d43cb&lt;/cat_item&gt;&lt;cat_variable/&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;CheckDuplicateTeam&lt;/name&gt;&lt;order/&gt;&lt;published_ref/&gt;&lt;script&gt;&lt;![CDATA[function onSubmit() {
+    // Get the team name and location values
+    var team_name = g_form.getValue('team_name');
+    var location = g_form.getValue('location');
+
+    // Call the Script Include to check for duplicates
+    var ga = new GlideAjax('CheckDuplicateTeam');
+    ga.addParam('sysparm_name', 'checkDuplicate');
+    ga.addParam('team_name', team_name);
+    ga.addParam('location', location);
+
+    var duplicate = false;
+    ga.getXMLAnswer(function(response) {
+        duplicate = response.responseXML.documentElement.getAttribute('answer') == 'true';
+        if (duplicate) {
+            g_form.addErrorMessage('A team with this name and location already exists.');
+            // Prevent form submission
+            g_form.submitted = false;
+        } else {
+            g_form.submit();
+        }
+    });
+
+    // Return false to prevent form submission until the check is complete
+    return false;
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;catalog_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-06-25 18:05:21&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;557ca94d47430690bd3cb616536d43c3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;CheckDuplicateTeam&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Community Soccer League" source="x_1189834_teampu_0"&gt;ddfd0ef7478d4650bd3cb616536d4350&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Community Soccer League"&gt;ddfd0ef7478d4650bd3cb616536d4350&lt;/sys_scope&gt;&lt;sys_update_name&gt;catalog_script_client_557ca94d47430690bd3cb616536d43c3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-06-25 18:05:21&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;type&gt;onSubmit&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;va_supported&gt;true&lt;/va_supported&gt;&lt;variable_set/&gt;&lt;view/&gt;&lt;/catalog_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2066046875</payload_hash>
+        <record_name>CheckDuplicateTeam</record_name>
+        <reverted_from/>
+        <source>b97a6e1647918a10bd3cb616536d437a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-25 18:05:21</sys_created_on>
+        <sys_id>2bcca18d47430690bd3cb616536d4301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1905092e1460000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-25 18:05:21</sys_updated_on>
+        <type>Catalog Client Scripts</type>
+        <update_guid>2fcca18d4e4306901560394cf1db8500</update_guid>
+        <update_guid_history>2fcca18d4e4306901560394cf1db8500:-2066046875</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CheckDuplicateTeam">037d298d47430690bd3cb616536d4358</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-25 18:08:20</sys_created_on>
+        <sys_db_object display_value="" name="catalog_script_client">catalog_script_client</sys_db_object>
+        <sys_id>10c34fb4ecf64ce984466c8a16c3fc91</sys_id>
+        <sys_metadata>557ca94d47430690bd3cb616536d43c3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CheckDuplicateTeam</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>catalog_script_client_557ca94d47430690bd3cb616536d43c3</sys_update_name>
+        <sys_update_version display_value="catalog_script_client_557ca94d47430690bd3cb616536d43c3">2bcca18d47430690bd3cb616536d4301</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-25 18:08:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

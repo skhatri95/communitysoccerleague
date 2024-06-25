@@ -46,7 +46,7 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <owner display_value="Sameer Khatri">6816f79cc0a8016401c5a33be04be441</owner>
         <picture>57dd7d51471d0610bd3cb616536d4395</picture>
         <post_insert_script><![CDATA[/**
 * This script is executed after the record is generated. 
@@ -88,14 +88,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-31 14:08:12</sys_created_on>
         <sys_id>93cd3d51471d0610bd3cb616536d433c</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_name>Create a Team Roster</sys_name>
         <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
         <sys_policy/>
         <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
         <sys_update_name>sc_cat_item_producer_93cd3d51471d0610bd3cb616536d433c</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-04-02 16:25:09</sys_updated_on>
+        <sys_updated_on>2024-06-21 21:38:31</sys_updated_on>
         <table_name>x_1189834_teampu_0_player_roster</table_name>
         <taxonomy_topic/>
         <template/>
@@ -103,7 +103,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>21</version>
+        <version>24</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>

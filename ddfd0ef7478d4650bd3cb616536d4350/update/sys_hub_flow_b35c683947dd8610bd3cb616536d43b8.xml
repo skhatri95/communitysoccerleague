@@ -11,6 +11,7 @@
         <copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from>
         <copied_from_name>FlowTemplate_Empty</copied_from_name>
         <description/>
+        <display_name_after_preview/>
         <flow_priority/>
         <generation_source/>
         <internal_name>when_an_event_is_canceledpostponed</internal_name>
@@ -27,6 +28,7 @@
         <show_draft_actions>false</show_draft_actions>
         <show_triggered_flows>false</show_triggered_flows>
         <status>published</status>
+        <substatus/>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-01 21:29:24</sys_created_on>

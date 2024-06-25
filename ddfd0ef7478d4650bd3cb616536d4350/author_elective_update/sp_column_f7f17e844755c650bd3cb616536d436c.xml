@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <semantic_tag/>
+        <size>12</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="2">73f17e844755c650bd3cb616536d436a</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 20:43:51</sys_created_on>
+        <sys_id>f7f17e844755c650bd3cb616536d436c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_update_name>sp_column_f7f17e844755c650bd3cb616536d436c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 20:43:51</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</application>
+        <file_path/>
+        <instance_id>a68d3647db86ff88f492c59705961991</instance_id>
+        <instance_name>dev88186</instance_name>
+        <name>sp_column_f7f17e844755c650bd3cb616536d436c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><semantic_tag/><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="2">73f17e844755c650bd3cb616536d436a</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-27 20:43:51</sys_created_on><sys_id>f7f17e844755c650bd3cb616536d436c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="TeamPulse" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package><sys_policy/><sys_scope display_value="TeamPulse">ddfd0ef7478d4650bd3cb616536d4350</sys_scope><sys_update_name>sp_column_f7f17e844755c650bd3cb616536d436c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-27 20:43:51</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>587160290</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>d5fd0ef7478d4650bd3cb616536d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 20:43:51</sys_created_on>
+        <sys_id>f7f17e844755c650bd3cb616536d436e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e81a7a6080000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 20:43:51</sys_updated_on>
+        <type>Column</type>
+        <update_guid>fbf17e841155c650f8c4e6ea8574bc6d</update_guid>
+        <update_guid_history>fbf17e841155c650f8c4e6ea8574bc6d:587160290</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">2fd1edb347be4e50bd3cb616536d43aa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 20:05:10</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>9f55202a826d477c97f9251aba3cc241</sys_id>
+        <sys_metadata>f7f17e844755c650bd3cb616536d436c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Community Soccer League" source="x_1189834_teampu_0">ddfd0ef7478d4650bd3cb616536d4350</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Community Soccer League">ddfd0ef7478d4650bd3cb616536d4350</sys_scope>
+        <sys_scope_delete display_value="">4e8cf24a2f724f97aa979470d176b581</sys_scope_delete>
+        <sys_update_name>sp_column_f7f17e844755c650bd3cb616536d436c</sys_update_name>
+        <sys_update_version display_value="sp_column_f7f17e844755c650bd3cb616536d436c">f7f17e844755c650bd3cb616536d436e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 20:05:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
